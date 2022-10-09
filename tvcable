@@ -1,7 +1,340 @@
 #EXTM3U
 
-#EXTINF:-1,Discovery Kids
-https://www.vertvcable.com/tv/discoverykid?sid=20015
+#EXTINF:-1,116 Telecanal
+http://45.225.95.170:8000/play/a0h8/index.m3u8
 
-#EXTINF:-2,HTV
-https://6353228574769.logi1laut4r0.solutions/repro/?r=Ly9mcmFuemthZmthcHIuc3BhY2UvZW1iZWQvaHR2Lmh0bWw
+#EXTINF:-1,117 La Red
+http://45.225.95.170:8000/play/a0f7/index.m3u8
+
+#EXTINF:-1,118 TV+
+http://45.225.95.170:8000/play/a0fx/index.m3u8
+
+#EXTINF:-1,119 TVN
+http://45.225.95.170:8000/play/a0fy/index.m3u8
+
+#EXTINF:-1,120 MEGA
+http://45.225.95.170:8000/play/a0fz/index.m3u8
+
+#EXTINF:-1,121 CHV
+http://45.225.95.170:8000/play/a0g0/index.m3u8
+
+#EXTINF:-1,122 Canal 13
+http://45.225.95.170:8000/play/a0g1/index.m3u8
+
+#EXTINF:-1,123 Zona Latina
+http://45.225.95.170:8000/play/a0g2/index.m3u8
+
+#EXTINF:-1,124 Via X
+http://45.225.95.170:8000/play/a0g3/index.m3u8
+
+#EXTINF:-1,125 13 C
+http://45.225.95.170:8000/play/a0f8/index.m3u8
+
+#EXTINF:-1,126 REC TV
+http://45.225.95.170:8000/play/a0gj/index.m3u8
+
+#EXTINF:-1,218 NTV
+http://45.181.122.100:8000/play/a04g/index.m3u8
+
+#EXTINF:-1,301 Cartoon Network
+http://45.225.95.170:8000/play/a0he/index.m3u8
+
+#EXTINF:-1,302 Nickelodeon
+http://45.225.95.170:8000/play/a0gw/index.m3u8
+
+#EXTINF:-1,303 Discovery Kids
+http://45.181.122.100:8000/play/a03w/index.m3u8
+
+#EXTINF:-1,304 Disney Channel
+http://45.225.95.170:8000/play/a0i6/index.m3u8
+
+#EXTINF:-1,306 Cartoonito
+http://45.225.95.170:8000/play/a0gx/index.m3u8
+
+#EXTINF:-1,307 Teen Nick
+http://45.225.95.170:8000/play/a0ej/index.m3u8
+
+#EXTINF:-1,308 Disney Junior
+http://45.225.95.170:8000/play/a0fa/index.m3u8
+
+#EXTINF:-1,309 ETC TV
+http://45.225.95.170:8000/play/a0g7/index.m3u8
+
+#EXTINF:-1,310 Baby TV
+http://45.225.95.170:8000/play/a0ix/index.m3u8
+
+#EXTINF:-1,313 Lolly Kids
+http://45.225.95.170:8000/play/a0ei/index.m3u8
+
+#EXTINF:-1,350 Animal Planet
+http://45.181.122.100:8000/play/a02x/index.m3u8
+
+#EXTINF:-1,351 Discovery Channel
+http://45.181.122.100:8000/play/a02w/index.m3u8
+
+#EXTINF:-1,352 National Geographic
+http://45.225.95.170:8000/play/a0hf/index.m3u8
+
+#EXTINF:-1,353 History 2
+http://45.225.95.170:8000/play/a0hg/index.m3u8
+
+#EXTINF:-1,354 History Channel
+http://45.225.95.170:8000/play/a0fb/index.m3u8
+
+#EXTINF:-1,355 Discovery H&H
+http://45.225.95.170:8000/play/a0fc/index.m3u8
+
+#EXTINF:-1,356 TLC
+http://45.225.95.170:8000/play/a0iz/index.m3u8
+
+#EXTINF:-1,361 Love Nature
+http://45.225.95.170:8000/play/a0g5/index.m3u8
+
+#EXTINF:-1,370 Kanal D Drama
+http://45.225.95.170:8000/play/a0ek/index.m3u8
+
+#EXTINF:-1,372 ID - Investigation Discovery
+http://45.225.95.170:8000/play/a0fp/index.m3u8
+
+#EXTINF:-1,374 E! Entertainment TV
+http://45.225.95.170:8000/play/a0hh/index.m3u8
+
+#EXTINF:-1,376 Glitz*
+http://45.225.95.170:8000/play/a0g8/index.m3u8
+
+#EXTINF:-1,381 Telemundo
+http://45.225.95.170:8000/play/a0eo/index.m3u8
+
+#EXTINF:-1,387 MTV
+http://45.225.95.170:8000/play/a0j1/index.m3u8
+
+#EXTINF:-1,389 HTV
+http://45.225.95.170:8000/play/a0ib/index.m3u8
+
+#EXTINF:-1,401 CNN Espanol
+http://45.225.95.170:8000/play/a0j2/index.m3u8
+
+#EXTINF:-1,402 BBC World
+http://45.225.95.170:8000/play/a0j3/index.m3u8
+
+#EXTINF:-1,403 CNN International
+http://45.225.95.170:8000/play/a0j4/index.m3u8
+
+#EXTINF:-1,423 24 Horas TVN
+http://45.225.95.170:8000/play/a0ga/index.m3u8
+
+#EXTINF:-1,424 CNN Chile
+http://45.225.95.170:8000/play/a0hk/index.m3u8
+
+#EXTINF:-1,425 TV Senado
+http://45.225.95.170:8000/play/a0ff/index.m3u8
+
+#EXTINF:-1,426 TV Diputados
+http://45.225.95.170:8000/play/a0fg/index.m3u8
+
+#EXTINF:-1,430 Movistar Plus
+http://45.225.95.170:8000/play/a0ed/index.m3u8
+
+#EXTINF:-1,431 Telefe
+http://45.225.95.170:8000/play/a0ie/index.m3u8
+
+#EXTINF:-1,432 Peru Magico
+http://45.225.95.170:8000/play/a0es/index.m3u8
+
+#EXTINF:-1,434 TVE
+http://45.225.95.170:8000/play/a0fh/index.m3u8
+
+#EXTINF:-1,435 Antena 3
+http://45.225.95.170:8000/play/a0hl/index.m3u8
+
+#EXTINF:-1,436 RAI
+http://45.225.95.170:8000/play/a0j6/index.m3u8
+
+#EXTINF:-1,438 DW (Deutsch +)
+http://45.225.95.170:8000/play/a0j7/index.m3u8
+
+#EXTINF:-1,439 EWTN
+http://45.225.95.170:8000/play/a0fi/index.m3u8
+
+#EXTINF:-1,446 Conciencia
+http://45.225.95.170:8000/play/a0gt/index.m3u8
+
+#EXTINF:-1,451 Telesur
+http://45.225.95.170:8000/play/a0j8/index.m3u8
+
+#EXTINF:-1,477 Teletrak
+http://45.225.95.170:8000/play/a0gc/index.m3u8
+
+#EXTINF:-1,479 Fox Sports 3
+http://45.225.95.170:8000/play/a0ja/index.m3u8
+
+#EXTINF:-1,480 ESPN
+http://45.225.95.170:8000/play/a0hm/index.m3u8
+
+#EXTINF:-1,482 ESPN2
+http://45.225.95.170:8000/play/a0hn/index.m3u8
+
+#EXTINF:-1,483 ESPN 4
+http://45.225.95.170:8000/play/a0ig/index.m3u8
+
+#EXTINF:-1,484 TNT SPORTS 3
+http://45.181.122.100:8000/play/a035/index.m3u8
+
+#EXTINF:-1,485 Fox Sports 1
+http://45.225.95.170:8000/play/a0ho/index.m3u8
+
+#EXTINF:-1,486 TNT SPORTS 2
+http://45.225.95.170:8000/play/a0if/index.m3u8
+
+#EXTINF:-1,490 Fox Sports 2
+http://45.225.95.170:8000/play/a0gz/index.m3u8
+
+#EXTINF:-1,493 CDO Basico
+http://45.225.95.170:8000/play/a0fk/index.m3u8
+
+#EXTINF:-1,494 CDO Premium
+http://45.225.95.170:8000/play/a0fl/index.m3u8
+
+#EXTINF:-1,495 ESPN 3
+http://45.225.95.170:8000/play/a0fm/index.m3u8
+
+#EXTINF:-1,501 Warner Channel
+http://45.225.95.170:8000/play/a0ev/index.m3u8
+
+#EXTINF:-1,502 STAR CHANNEL
+http://45.225.95.170:8000/play/a0gg/index.m3u8
+
+#EXTINF:-1,503 Sony
+http://45.225.95.170:8000/play/a0hp/index.m3u8
+
+#EXTINF:-1,504 AXN
+http://45.225.95.170:8000/play/a0fn/index.m3u8
+
+#EXTINF:-1,506 A&E
+http://45.225.95.170:8000/play/a0jb/index.m3u8
+
+#EXTINF:-1,510 Universal
+http://45.225.95.170:8000/play/a0fo/index.m3u8
+
+#EXTINF:-1,511 Tru TV
+http://45.225.95.170:8000/play/a0jc/index.m3u8
+
+#EXTINF:-1,521 Lifetime
+http://45.225.95.170:8000/play/a0ih/index.m3u8
+
+#EXTINF:-1,548 SyFy
+http://45.225.95.170:8000/play/a0hr/index.m3u8
+
+#EXTINF:-1,595 TNT
+http://45.225.95.170:8000/play/a0jd/index.m3u8
+
+#EXTINF:-1,596 TNT Series
+http://45.225.95.170:8000/play/a0je/index.m3u8
+
+#EXTINF:-1,602 Studio Universal
+http://45.225.95.170:8000/play/a0ik/index.m3u8
+
+#EXTINF:-1,603 TCM
+http://45.225.95.170:8000/play/a0h2/index.m3u8
+
+#EXTINF:-1,604 Space
+http://45.225.95.170:8000/play/a0il/index.m3u8
+
+#EXTINF:-1,605 I SAT
+http://45.225.95.170:8000/play/a0h3/index.m3u8
+
+#EXTINF:-1,606 Clover
+http://45.225.95.170:8000/play/a0hb/index.m3u8
+
+#EXTINF:-1,607 FX
+http://45.225.95.170:8000/play/a0fq/index.m3u8
+
+#EXTINF:-1,609 Paramount Channel
+http://45.225.95.170:8000/play/a0h4/index.m3u8
+
+#EXTINF:-1,615 Cinecanal
+http://45.225.95.170:8000/play/a0gi/index.m3u8
+
+#EXTINF:-1,616 Cinemax
+http://45.225.95.170:8000/play/a0h5/index.m3u8
+
+#EXTINF:-1,629 HBO
+http://45.225.95.170:8000/play/a0ex/index.m3u8
+
+#EXTINF:-1,631 HBO Family
+http://45.225.95.170:8000/play/a0jg/index.m3u8
+
+#EXTINF:-1,632 HBO XTREME
+http://45.225.95.170:8000/play/a0jh/index.m3u8
+
+#EXTINF:-1,633 HBO Plus
+http://45.225.95.170:8000/play/a0ji/index.m3u8
+
+#EXTINF:-1,634 HBO2
+http://45.225.95.170:8000/play/a0ey/index.m3u8
+
+#EXTINF:-1,635 HBO Signature
+http://45.225.95.170:8000/play/a0jj/index.m3u8
+
+#EXTINF:-1,636 HBO POP
+http://45.225.95.170:8000/play/a0js/index.m3u8
+
+#EXTINF:-1,638 HBO MUNDI
+http://45.225.95.170:8000/play/a0in/index.m3u8
+
+#EXTINF:-1,700 Nick Jr
+http://45.225.95.170:8000/play/a0ez/index.m3u8
+
+#EXTINF:-1,702 Tooncast
+http://45.225.95.170:8000/play/a0jk/index.m3u8
+
+#EXTINF:-1,711 Discovery Science
+http://45.225.95.170:8000/play/a0h6/index.m3u8
+
+#EXTINF:-1,712 HGTV
+http://45.225.95.170:8000/play/a0i7/index.m3u8
+
+#EXTINF:-1,713 Discovery Turbo
+http://45.225.95.170:8000/play/a0io/index.m3u8
+
+#EXTINF:-1,731 RCN
+http://45.225.95.170:8000/play/a0i3/index.m3u8
+
+#EXTINF:-1,732 El Trece
+http://45.225.95.170:8000/play/a0f0/index.m3u8
+
+#EXTINF:-1,733 Enlace
+http://45.181.122.100:8000/play/a04x/index.m3u8
+
+#EXTINF:-1,734 Fox News
+http://45.225.95.170:8000/play/a0hw/index.m3u8
+
+#EXTINF:-1,739 TBS Very Funny
+http://45.225.95.170:8000/play/a0hx/index.m3u8
+
+#EXTINF:-1,742 WOBI
+http://45.225.95.170:8000/play/a0f1/index.m3u8
+
+#EXTINF:-1,751 Golf Channel
+http://45.225.95.170:8000/play/a0fw/index.m3u8
+
+#EXTINF:-1,786 Movistar Deportes
+http://45.225.95.170:8000/play/a0ea/index.m3u8
+
+#EXTINF:-1,787 Canal N
+http://45.225.95.170:8000/play/a0f4/index.m3u8
+
+#EXTINF:-1,862 ATRES SERIES
+http://45.225.95.170:8000/play/a0jf/index.m3u8
+
+#EXTINF:-1,837 Eurochannel
+http://45.225.95.170:8000/play/a0j5/index.m3u8
+
+#EXTINF:-1,876 DHE HD
+http://181.115.238.188:8000/play/a049/index.m3u8
+
+#EXTINF:-1,942 TyC Sports
+http://45.225.95.170:8000/play/a0eu/index.m3u8
+
+#EXTINF:-1,943 Gol TV
+http://45.225.95.170:8000/play/a0j9/index.m3u8
