@@ -34,7 +34,7 @@ http://45.225.95.170:8000/play/a0f8/index.m3u8
 http://45.225.95.170:8000/play/a0gj/index.m3u8
 
 #EXTINF:-1,218 NTV
-http://45.181.122.100:8000/play/a04g/index.m3u8
+http://201.222.45.69:8000/play/a07r/index.m3u8
 
 #EXTINF:-1,301 Cartoon Network
 http://45.225.95.170:8000/play/a0he/index.m3u8
@@ -43,7 +43,7 @@ http://45.225.95.170:8000/play/a0he/index.m3u8
 http://45.225.95.170:8000/play/a0gw/index.m3u8
 
 #EXTINF:-1,303 Discovery Kids
-http://45.181.122.100:8000/play/a03w/index.m3u8
+http://201.222.45.69:8000/play/a003/index.m3u8
 
 #EXTINF:-1,304 Disney Channel
 http://45.225.95.170:8000/play/a0i6/index.m3u8
