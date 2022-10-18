@@ -57,11 +57,11 @@ http://45.225.95.170:8000/play/a0ej/index.m3u8
 #EXTINF:-1,308 Disney Junior
 http://45.225.95.170:8000/play/a0fa/index.m3u8
 
-#EXTINF:-1,309 ETC TV
-http://45.225.95.170:8000/play/a0g7/index.m3u8
-
-#EXTINF:-1,310 Baby TV
+#EXTINF:-1,309 Baby TV
 http://45.225.95.170:8000/play/a0ix/index.m3u8
+
+#EXTINF:-1,310 ETC TV
+http://45.225.95.170:8000/play/a0g7/index.m3u8
 
 #EXTINF:-1,313 Lolly Kids
 http://45.225.95.170:8000/play/a0ei/index.m3u8
@@ -147,7 +147,10 @@ http://45.225.95.170:8000/play/a0fh/index.m3u8
 #EXTINF:-1,435 Antena 3
 http://45.225.95.170:8000/play/a0hl/index.m3u8
 
-#EXTINF:-1,436 RAI
+#EXTINF:-1,436 Eurochannel
+http://45.225.95.170:8000/play/a0j5/index.m3u8
+
+#EXTINF:-1,437 RAI
 http://45.225.95.170:8000/play/a0j6/index.m3u8
 
 #EXTINF:-1,438 DW (Deutsch +)
@@ -258,7 +261,10 @@ http://45.225.95.170:8000/play/a0gi/index.m3u8
 #EXTINF:-1,616 Cinemax
 http://45.225.95.170:8000/play/a0h5/index.m3u8
 
-#EXTINF:-1,629 HBO
+#EXTINF:-1,629 HBO SD
+http://45.225.95.170:8000/play/a0hs/index.m3u8
+
+#EXTINF:-1,630 HBO
 http://45.225.95.170:8000/play/a0ex/index.m3u8
 
 #EXTINF:-1,631 HBO Family
@@ -275,9 +281,6 @@ http://45.225.95.170:8000/play/a0ey/index.m3u8
 
 #EXTINF:-1,635 HBO Signature
 http://45.225.95.170:8000/play/a0jj/index.m3u8
-
-#EXTINF:-1,636 HBO POP
-http://45.225.95.170:8000/play/a0js/index.m3u8
 
 #EXTINF:-1,638 HBO MUNDI
 http://45.225.95.170:8000/play/a0in/index.m3u8
@@ -324,17 +327,35 @@ http://45.225.95.170:8000/play/a0ea/index.m3u8
 #EXTINF:-1,787 Canal N
 http://45.225.95.170:8000/play/a0f4/index.m3u8
 
+#EXTINF:-1,841 Discovery World HD
+http://190.131.247.82:8000/play/a06a
+
+#EXTINF:-1,845 HOLA TV HD
+http://190.131.247.82:8000/play/a09a
+
 #EXTINF:-1,862 ATRES SERIES
 http://45.225.95.170:8000/play/a0jf/index.m3u8
 
-#EXTINF:-1,837 Eurochannel
-http://45.225.95.170:8000/play/a0j5/index.m3u8
+#EXTINF:-1,863 Comedy Central HD
+http://190.131.247.82:8000/play/a09l
 
 #EXTINF:-1,876 DHE HD
-http://181.115.238.188:8000/play/a049/index.m3u8
+http://190.131.247.82:8000/play/a00i
 
-#EXTINF:-1,942 TyC Sports
+#EXTINF:-1,885 ESPN EXTRA HD
+http://190.131.247.82:8000/play/a06d
+
+#EXTINF:-1,893 TyC Sports
 http://45.225.95.170:8000/play/a0eu/index.m3u8
 
-#EXTINF:-1,943 Gol TV
+#EXTINF:-1,894 Gol TV
 http://45.225.95.170:8000/play/a0j9/index.m3u8
+
+#EXTINF:-1,905 MTV LIVE HD
+http://190.131.247.82:8000/play/a0dr
+
+#EXTINF:-1,908 MTV 00s
+http://190.131.247.82:8000/play/a09i
+
+#EXTINF:-1,923 HBO POP
+http://45.225.95.170:8000/play/a0js/index.m3u8
