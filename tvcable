@@ -300,8 +300,8 @@ http://45.225.95.170:8000/play/a0i7/index.m3u8
 #EXTINF:-1,713 Discovery Turbo
 http://45.225.95.170:8000/play/a0io/index.m3u8
 
-#EXTINF:-1,731 RCN
-http://45.225.95.170:8000/play/a0i3/index.m3u8
+#EXTINF:-1,731 Nuestra Tele
+http://45.225.95.170:8000/play/a0ip/index.m3u8
 
 #EXTINF:-1,732 El Trece
 http://45.225.95.170:8000/play/a0f0/index.m3u8
