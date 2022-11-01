@@ -216,6 +216,9 @@ http://45.225.95.170:8000/play/a0fn/index.m3u8
 #EXTINF:-1,506 A&E
 http://45.225.95.170:8000/play/a0jb/index.m3u8
 
+#EXTINF:-1,508 Comedy Central
+http://45.232.211.196:1080/play/a04p
+
 #EXTINF:-1,510 Universal
 http://45.225.95.170:8000/play/a0fo/index.m3u8
 
@@ -327,6 +330,24 @@ http://45.225.95.170:8000/play/a0ea/index.m3u8
 #EXTINF:-1,787 Canal N
 http://45.225.95.170:8000/play/a0f4/index.m3u8
 
+#EXTINF:-1,804 La Red HD
+http://45.232.211.196:1080/play/a048
+
+#EXTINF:-1,805 TV+ HD
+http://45.232.211.196:1080/play/a05c
+
+#EXTINF:-1,807 TVN HD
+http://45.232.211.196:1080/play/a04c
+
+#EXTINF:-1,809 MEGA HD
+http://45.232.211.196:1080/play/a05d
+
+#EXTINF:-1,811 CHV HD
+http://45.232.211.196:1080/play/a04d
+
+#EXTINF:-1,813 CANAL 13 HD
+http://45.232.211.196:1080/play/a00f
+
 #EXTINF:-1,841 Discovery World HD
 http://190.131.247.82:8000/play/a06a
 
@@ -343,7 +364,7 @@ http://190.131.247.82:8000/play/a09l
 http://190.131.247.82:8000/play/a00i
 
 #EXTINF:-1,885 ESPN EXTRA HD
-http://190.131.247.82:8000/play/a06d
+http://45.232.211.196:1080/play/a05i
 
 #EXTINF:-1,893 TyC Sports
 http://45.225.95.170:8000/play/a0eu/index.m3u8
