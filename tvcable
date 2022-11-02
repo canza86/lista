@@ -349,7 +349,7 @@ http://45.232.211.196:1080/play/a04d
 http://45.232.211.196:1080/play/a00f
 
 #EXTINF:-1,841 Discovery World HD
-http://190.131.247.82:8000/play/a06a
+http://45.232.211.196:1080/play/a05f
 
 #EXTINF:-1,845 HOLA TV HD
 http://190.131.247.82:8000/play/a09a
@@ -373,10 +373,10 @@ http://45.225.95.170:8000/play/a0eu/index.m3u8
 http://45.225.95.170:8000/play/a0j9/index.m3u8
 
 #EXTINF:-1,905 MTV LIVE HD
-http://190.131.247.82:8000/play/a0dr
+http://45.232.211.196:1080/play/a050
 
 #EXTINF:-1,908 MTV 00s
-http://190.131.247.82:8000/play/a09i
+http://45.232.211.196:1080/play/a04m
 
 #EXTINF:-1,923 HBO POP
 http://45.225.95.170:8000/play/a0js/index.m3u8
