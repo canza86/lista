@@ -34,7 +34,7 @@ http://45.225.95.170:8000/play/a0f8/index.m3u8
 http://45.225.95.170:8000/play/a0gj/index.m3u8
 
 #EXTINF:-1,218 NTV
-http://186.10.244.26:8088/play/a010
+http://45.167.194.11:8000/play/a00a
 
 #EXTINF:-1,301 Cartoon Network
 http://45.225.95.170:8000/play/a0he/index.m3u8
@@ -43,7 +43,7 @@ http://45.225.95.170:8000/play/a0he/index.m3u8
 http://45.225.95.170:8000/play/a0gw/index.m3u8
 
 #EXTINF:-1,303 Discovery Kids
-http://186.10.244.26:8088/play/012
+http://45.167.194.11:8000/play/a009
 
 #EXTINF:-1,304 Disney Channel
 http://45.225.95.170:8000/play/a0i6/index.m3u8
@@ -67,10 +67,10 @@ http://45.225.95.170:8000/play/a0g7/index.m3u8
 http://45.225.95.170:8000/play/a0ei/index.m3u8
 
 #EXTINF:-1,350 Animal Planet
-http://186.10.244.26:8088/play/a013
+http://45.167.194.11:8001/play/a00e
 
 #EXTINF:-1,351 Discovery Channel
-http://186.10.244.26:8088/play/017
+http://45.167.194.11:8001/play/a00u
 
 #EXTINF:-1,352 National Geographic
 http://45.225.95.170:8000/play/a0hf/index.m3u8
@@ -181,7 +181,7 @@ http://45.225.95.170:8000/play/a0hn/index.m3u8
 http://45.225.95.170:8000/play/a0ig/index.m3u8
 
 #EXTINF:-1,484 TNT SPORTS 3
-http://186.10.244.26:8088/play/a01b
+http://38.7.204.131:8000/play/a01q/index.m3u8
 
 #EXTINF:-1,485 Fox Sports 1
 http://45.225.95.170:8000/play/a0ho/index.m3u8
@@ -217,7 +217,7 @@ http://45.225.95.170:8000/play/a0fn/index.m3u8
 http://45.225.95.170:8000/play/a0jb/index.m3u8
 
 #EXTINF:-1,508 Comedy Central
-http://45.232.211.196:1080/play/a04p
+http://45.167.194.11:8000/play/a01f
 
 #EXTINF:-1,510 Universal
 http://45.225.95.170:8000/play/a0fo/index.m3u8
@@ -310,7 +310,7 @@ http://45.225.95.170:8000/play/a0ip/index.m3u8
 http://45.225.95.170:8000/play/a0f0/index.m3u8
 
 #EXTINF:-1,733 Enlace
-http://186.10.244.26:8088/play/a02e
+http://45.167.194.11:8001/play/a01l
 
 #EXTINF:-1,734 Fox News
 http://45.225.95.170:8000/play/a0hw/index.m3u8
