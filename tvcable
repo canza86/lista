@@ -181,7 +181,7 @@ http://45.225.95.170:8000/play/a0hn/index.m3u8
 http://45.225.95.170:8000/play/a0ig/index.m3u8
 
 #EXTINF:-1,484 TNT SPORTS 3
-http://45.238.21.106:7778/play/a00m/index.m3u8
+http://45.232.210.1:8062/play/a08x/index.m3u8
 
 #EXTINF:-1,485 Fox Sports 1
 http://45.225.95.170:8000/play/a0ho/index.m3u8
@@ -310,7 +310,7 @@ http://45.225.95.170:8000/play/a0ip/index.m3u8
 http://45.225.95.170:8000/play/a0f0/index.m3u8
 
 #EXTINF:-1,733 Enlace
-http://45.238.21.106:7778/play/a01z/index.m3u8
+http://45.232.210.1:8062/play/a09r/index.m3u8
 
 #EXTINF:-1,734 Fox News
 http://45.225.95.170:8000/play/a0hw/index.m3u8
