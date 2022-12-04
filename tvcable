@@ -43,7 +43,7 @@ http://45.225.95.170:8000/play/a0he/index.m3u8
 http://45.225.95.170:8000/play/a0gw/index.m3u8
 
 #EXTINF:-1,303 Discovery Kids
-http://200.24.159.165:9966/play/a045/index.m3u8
+http://190.108.85.116:8000/play/a08q/index.m3u8
 
 #EXTINF:-1,304 Disney Channel
 http://45.225.95.170:8000/play/a0i6/index.m3u8
@@ -67,10 +67,10 @@ http://45.225.95.170:8000/play/a0g7/index.m3u8
 http://45.225.95.170:8000/play/a0ei/index.m3u8
 
 #EXTINF:-1,350 Animal Planet
-http://200.24.159.165:9966/play/a046/index.m3u8
+http://190.108.85.116:8000/play/a09d/index.m3u8
 
 #EXTINF:-1,351 Discovery Channel
-http://200.24.159.165:9966/play/a049/index.m3u8
+http://190.108.85.116:8000/play/a09c/index.m3u8
 
 #EXTINF:-1,352 National Geographic
 http://45.225.95.170:8000/play/a0hf/index.m3u8
