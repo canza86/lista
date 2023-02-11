@@ -159,8 +159,8 @@ http://45.225.95.170:8000/play/a0j7/index.m3u8
 #EXTINF:-1,439 EWTN
 http://45.225.95.170:8000/play/a0fi/index.m3u8
 
-#EXTINF:-1,446 Conciencia
-http://45.225.95.170:8000/play/a0gt/index.m3u8
+#EXTINF:-1,446 Cristovisiðn
+http://45.167.250.114:37581/play/a0h8/index.m3u8
 
 #EXTINF:-1,451 Telesur
 http://45.225.95.170:8000/play/a0j8/index.m3u8
