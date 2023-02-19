@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="large.telecanal.png",116 Telecanal
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.telecanal.png.470f00cfac0acc68ccca97b1d0bc6831.png",116 Telecanal
 http://45.225.95.170:8000/play/a0h8/index.m3u8
 
 #EXTINF:-1,117 La Red
