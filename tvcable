@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.telecanal.png.470f00cfac0acc68ccca97b1d0bc6831.png",116 Telecanal
 http://45.225.95.170:8000/play/a0h8/index.m3u8
 
-#EXTINF:-1,117 La Red
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Red-TV-Chile-en-vivo-Online-.png?fit=1920%2C1080&ssl=1",117 La Red
 http://45.225.95.170:8000/play/a0f7/index.m3u8
 
 #EXTINF:-1,118 TV+
