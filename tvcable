@@ -6,10 +6,10 @@ http://45.225.95.170:8000/play/a0h8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Red-TV-Chile-en-vivo-Online-.png?fit=1920%2C1080&ssl=1",117 La Red
 http://45.225.95.170:8000/play/a0f7/index.m3u8
 
-#EXTINF:-1,118 TV+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/TV-mas-Chile-en-vivo-Online.png?resize=696%2C392&ssl=1",118 TV+
 http://45.225.95.170:8000/play/a0fx/index.m3u8
 
-#EXTINF:-1,119 TVN
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/small.1936451169_LogotipoTVN2020.png.8a161a29611a7f2a1fe04cedd7e2875a.png",119 TVN
 http://45.225.95.170:8000/play/a0fy/index.m3u8
 
 #EXTINF:-1,120 MEGA
