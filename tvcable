@@ -18,13 +18,13 @@ http://45.225.95.170:8000/play/a0fz/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_02/large.5a8c6a702e9cf_LogoCHV2018Blanco1.png.46fe4fbddd7de2f13abc0d53500758bc.png",121 CHV
 http://45.225.95.170:8000/play/a0g0/index.m3u8
 
-#EXTINF:-1,122 Canal 13
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Canal-13-Chile-en-vivo-Online.png?resize=696%2C392&ssl=1",122 Canal 13
 http://45.225.95.170:8000/play/a0g1/index.m3u8
 
-#EXTINF:-1,123 Zona Latina
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.Zona_Latina_Alt_2021.png.3bc0074f42e2925ef35f343cdc34aa9b.png",123 Zona Latina
 http://45.225.95.170:8000/play/a0g2/index.m3u8
 
-#EXTINF:-1,124 Via X
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1178_6_4097.png",124 Via X
 http://45.225.95.170:8000/play/a0g3/index.m3u8
 
 #EXTINF:-1,125 13 C
