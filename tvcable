@@ -159,8 +159,8 @@ http://45.225.95.170:8000/play/a0j7/index.m3u8
 #EXTINF:-1,439 EWTN
 http://45.225.95.170:8000/play/a0fi/index.m3u8
 
-#EXTINF:-1,446 Cristovisiðn
-http://181.225.101.144:9000/play/a04x/index.m3u8
+#EXTINF:-1,446 Cristovision
+http://45.225.95.171:7577/play/a0xc/index.m3u8
 
 #EXTINF:-1,451 Telesur
 http://45.225.95.170:8000/play/a0j8/index.m3u8
