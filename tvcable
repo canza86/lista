@@ -27,43 +27,43 @@ http://45.225.95.170:8000/play/a0g2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1178_6_4097.png",124 Via X
 http://45.225.95.170:8000/play/a0g3/index.m3u8
 
-#EXTINF:-1,125 13 C
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/13C_2018.png/640px-13C_2018.png",125 13 C
 http://45.225.95.170:8000/play/a0f8/index.m3u8
 
-#EXTINF:-1,126 REC TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logotipo_de_Rec_TV.png",126 REC TV
 http://45.225.95.170:8000/play/a0gj/index.m3u8
 
-#EXTINF:-1,218 NTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/NTV_Chile_2021_%28blanco%29.png",218 NTV
 http://45.162.132.145:8850/play/a02w/index.m3u8
 
-#EXTINF:-1,301 Cartoon Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png",301 Cartoon Network
 http://45.225.95.170:8000/play/a0he/index.m3u8
 
-#EXTINF:-1,302 Nickelodeon
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",302 Nickelodeon
 http://45.225.95.170:8000/play/a0gw/index.m3u8
 
-#EXTINF:-1,303 Discovery Kids
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/1/1e/2021-presente_%282D%29.png/revision/latest?cb=20210803154231&path-prefix=es",303 Discovery Kids
 http://45.232.210.1:8062/play/a082/index.m3u8
 
-#EXTINF:-1,304 Disney Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png",304 Disney Channel
 http://45.225.95.170:8000/play/a0i6/index.m3u8
 
-#EXTINF:-1,306 Cartoonito
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.120508483_1245621174_Cartoonito_logo_2021_28alternate29(1).png.7f291da239b95b7474b09d1a8cf25c8b.png",306 Cartoonito
 http://45.225.95.170:8000/play/a0gx/index.m3u8
 
-#EXTINF:-1,307 Teen Nick
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/2560px-TeenNick_logo_2009.svg.png",307 Teen Nick
 http://45.225.95.170:8000/play/a0ej/index.m3u8
 
-#EXTINF:-1,308 Disney Junior
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Disney_Junior_2017.svg/revision/latest?cb=20200322141724&path-prefix=es",308 Disney Junior
 http://45.225.95.170:8000/play/a0fa/index.m3u8
 
-#EXTINF:-1,309 Baby TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QY72YPUZ_-A/X8_CSWEtfxI/AAAAAAAA7kg/S8H7gAJczlImH4fE131WrPpb_VRz2Md4ACLcBGAsYHQ/s500/babytv-2017.png",309 Baby TV
 http://45.225.95.170:8000/play/a0ix/index.m3u8
 
-#EXTINF:-1,310 ETC TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png",310 ETC TV
 http://45.225.95.170:8000/play/a0g7/index.m3u8
 
-#EXTINF:-1,313 Lolly Kids
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Lolly_Kids_TV_2018.svg/revision/latest/scale-to-width-down/200?cb=20220608234257&path-prefix=es",313 Lolly Kids
 http://45.225.95.170:8000/play/a0ei/index.m3u8
 
 #EXTINF:-1,350 Animal Planet
