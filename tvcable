@@ -66,13 +66,13 @@ http://45.225.95.170:8000/play/a0g7/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Lolly_Kids_TV_2018.svg/revision/latest/scale-to-width-down/200?cb=20220608234257&path-prefix=es",313 Lolly Kids
 http://45.225.95.170:8000/play/a0ei/index.m3u8
 
-#EXTINF:-1,350 Animal Planet
+#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/animal-planet.png",350 Animal Planet
 http://45.162.132.145:8850/play/a02b/index.m3u8
 
-#EXTINF:-1,351 Discovery Channel
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/small.discovery-channel-logo-1-1.png.6e51a47fb5e41654e213772620548d7a.png",351 Discovery Channel
 http://45.162.132.145:8850/play/a02e/index.m3u8
 
-#EXTINF:-1,352 National Geographic
+#EXTINF:-1 tvg-logo="https://nationalgeographicpartners.com/app/themes/thewaltdisneycompany-theme-child-natgeo/assets/dist/images/NatGeoLogoWhite.png",352 National Geographic
 http://45.225.95.170:8000/play/a0hf/index.m3u8
 
 #EXTINF:-1,353 History 2
