@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png",116 Telecanal
 http://45.225.95.170:8000/play/a0h8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canza86/lista/main/La_Red_Logotipo_2021.svg.png",117 La Red
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.131469466_LaRed(Chile)Logo20212.png.0c29b32c0fe9d9c0b24ffdbdba227c4a.png",117 La Red
 http://45.225.95.170:8000/play/a0f7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/TV-mas-Chile-en-vivo-Online.png?resize=696%2C392&ssl=1",118 TV+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_11/large.1288457957_TV_(2018)Blanco.png.b7b98adb3da2f82804a11af52312643b.png",118 TV+
 http://45.225.95.170:8000/play/a0fx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/small.1936451169_LogotipoTVN2020.png.8a161a29611a7f2a1fe04cedd7e2875a.png",119 TVN
