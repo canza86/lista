@@ -111,28 +111,28 @@ http://45.225.95.170:8000/play/a0j1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/HTV_2009_SVG.svg/revision/latest/scale-to-width-down/150?cb=20220209122418&path-prefix=es",389 HTV
 http://45.225.95.170:8000/play/a0ib/index.m3u8
 
-#EXTINF:-1,401 CNN Espanol
+#EXTINF:-1 tvg="https://static.wikia.nocookie.net/logopedia/images/d/de/CNN_en_Espa%C3%B1ol_2014.svg/revision/latest/scale-to-width-down/200?cb=20220409054013&path-prefix=es",401 CNN Espanol
 http://45.225.95.170:8000/play/a0j2/index.m3u8
 
-#EXTINF:-1,402 BBC World
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/BBC_World_News_2022_%28Boxed%29.svg/revision/latest/scale-to-width-down/200?cb=20220501102236&path-prefix=es",402 BBC World
 http://45.225.95.170:8000/play/a0j3/index.m3u8
 
-#EXTINF:-1,403 CNN International
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/250?cb=20200107001947&path-prefix=es",403 CNN International
 http://45.225.95.170:8000/play/a0j4/index.m3u8
 
-#EXTINF:-1,423 24 Horas TVN
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/24HTVN2015-0.png/revision/latest/scale-to-width-down/300?cb=20200329000100&path-prefix=es",423 24 Horas TVN
 http://45.225.95.170:8000/play/a0ga/index.m3u8
 
-#EXTINF:-1,424 CNN Chile
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/CNN_Chile_2017.svg/revision/latest/scale-to-width-down/175?cb=20220409052356&path-prefix=es",424 CNN Chile
 http://45.225.95.170:8000/play/a0hk/index.m3u8
 
-#EXTINF:-1,425 TV Senado
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/TV_Senado_Chile_2022.svg/revision/latest/scale-to-width-down/350?cb=20230210131544&path-prefix=es",425 TV Senado
 http://45.225.95.170:8000/play/a0ff/index.m3u8
 
-#EXTINF:-1,426 TV Diputados
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/C%C3%A1mara_de_Diputadas_y_Diputados_de_Chile_2020.svg/revision/latest/scale-to-width-down/175?cb=20210617042908&path-prefix=es",426 TV Diputados
 http://45.225.95.170:8000/play/a0fg/index.m3u8
 
-#EXTINF:-1,430 Movistar Plus
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.MovistarPlus-Peru.png.d4660a338442179e5d27a3c63ee41683.png",430 Movistar Plus
 http://45.225.95.170:8000/play/a0ed/index.m3u8
 
 #EXTINF:-1,431 Telefe
