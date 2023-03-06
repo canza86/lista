@@ -111,7 +111,7 @@ http://45.225.95.170:8000/play/a0j1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/HTV_2009_SVG.svg/revision/latest/scale-to-width-down/150?cb=20220209122418&path-prefix=es",389 HTV
 http://45.225.95.170:8000/play/a0ib/index.m3u8
 
-#EXTINF:-1 tvg="https://static.wikia.nocookie.net/logopedia/images/d/de/CNN_en_Espa%C3%B1ol_2014.svg/revision/latest/scale-to-width-down/200?cb=20220409054013&path-prefix=es",401 CNN Espanol
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/CNN_en_Espa%C3%B1ol_2014.svg/revision/latest/scale-to-width-down/200?cb=20220409054013&path-prefix=es",401 CNN Espanol
 http://45.225.95.170:8000/play/a0j2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/BBC_World_News_2022_%28Boxed%29.svg/revision/latest/scale-to-width-down/200?cb=20220501102236&path-prefix=es",402 BBC World
@@ -132,37 +132,37 @@ http://45.225.95.170:8000/play/a0ff/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/C%C3%A1mara_de_Diputadas_y_Diputados_de_Chile_2020.svg/revision/latest/scale-to-width-down/175?cb=20210617042908&path-prefix=es",426 TV Diputados
 http://45.225.95.170:8000/play/a0fg/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.MovistarPlus-Peru.png.d4660a338442179e5d27a3c63ee41683.png",430 Movistar Plus
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/MP2017.png/revision/latest/scale-to-width-down/200?cb=20200122220848&path-prefix=es",430 Movistar Plus
 http://45.225.95.170:8000/play/a0ed/index.m3u8
 
-#EXTINF:-1,431 Telefe
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_11/small.TelefeInternacional2018.png.dae8071b2511b5e0af5398dcca9319fa.png",431 Telefe
 http://45.225.95.170:8000/play/a0ie/index.m3u8
 
-#EXTINF:-1,432 Peru Magico
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Peru_Magico_2016_%281%29.png/revision/latest/scale-to-width-down/250?cb=20210405190247&path-prefix=es",432 Peru Magico
 http://45.225.95.170:8000/play/a0es/index.m3u8
 
-#EXTINF:-1,434 TVE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/TVE_2008_logo_mosca.svg/revision/latest/scale-to-width-down/200?cb=20210508190928&path-prefix=es",434 TVE
 http://45.225.95.170:8000/play/a0fh/index.m3u8
 
-#EXTINF:-1,435 Antena 3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Antena_3_Internacional_2017.png/revision/latest/scale-to-width-down/180?cb=20191204133939&path-prefix=es",435 Antena 3
 http://45.225.95.170:8000/play/a0hl/index.m3u8
 
-#EXTINF:-1,436 Eurochannel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Eurochannel_%282015%29.svg/revision/latest/scale-to-width-down/300?cb=20210514180237&path-prefix=es",436 Eurochannel
 http://45.225.95.170:8000/play/a0j5/index.m3u8
 
-#EXTINF:-1,437 RAI
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Rai_Italia_2017.png/revision/latest/scale-to-width-down/300?cb=20200805145329&path-prefix=es",437 RAI
 http://45.225.95.170:8000/play/a0j6/index.m3u8
 
-#EXTINF:-1,438 DW (Deutsch +)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/250?cb=20210624152344&path-prefix=es",438 DW (Deutsch +)
 http://45.225.95.170:8000/play/a0j7/index.m3u8
 
-#EXTINF:-1,439 EWTN
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_02/large.2.png.ee7314e2d55fc99f91cede718077b31d.png",439 EWTN
 http://45.225.95.170:8000/play/a0fi/index.m3u8
 
-#EXTINF:-1,446 Cristovision
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Cristovisi%C3%B3n_2016.png/revision/latest/scale-to-width-down/168?cb=20210503213723&path-prefix=es",446 Cristovision
 http://45.225.95.171:7577/play/a0xc/index.m3u8
 
-#EXTINF:-1,451 Telesur
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Telesur_%282017%29.png/revision/latest/scale-to-width-down/150?cb=20220903012506&path-prefix=es",451 Telesur
 http://45.225.95.170:8000/play/a0j8/index.m3u8
 
 #EXTINF:-1,477 Teletrak
