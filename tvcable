@@ -1,24 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/small.telecanal.png.16e37e973718fc1cc8a91323ad279458.png",116 Telecanal
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Telecanal_2011.svg/revision/latest/scale-to-width-down/200?cb=20220613194854&path-prefix=es",116 Telecanal
 http://45.225.95.170:8000/play/a0h8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.131469466_LaRed(Chile)Logo20212.png.0c29b32c0fe9d9c0b24ffdbdba227c4a.png",117 La Red
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es",117 La Red
 http://45.225.95.170:8000/play/a0f7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_11/large.1288457957_TV_(2018)Blanco.png.b7b98adb3da2f82804a11af52312643b.png",118 TV+
 http://45.225.95.170:8000/play/a0fx/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/small.1936451169_LogotipoTVN2020.png.8a161a29611a7f2a1fe04cedd7e2875a.png",119 TVN
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVN_Chile_2020.svg/revision/latest/scale-to-width-down/200?cb=20210906211246&path-prefix=es",119 TVN
 http://45.225.95.170:8000/play/a0fy/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.Logomega2020.png.5b2a5dbf15193b1579679b8488eccef7.png",120 MEGA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Mega_2020.svg/revision/latest/scale-to-width-down/225?cb=20210329134307&path-prefix=es",120 MEGA
 http://45.225.95.170:8000/play/a0fz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_02/large.5a8c6a702e9cf_LogoCHV2018Blanco1.png.46fe4fbddd7de2f13abc0d53500758bc.png",121 CHV
 http://45.225.95.170:8000/play/a0g0/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/large.5ab7d5a69df21_Canal13Chile.png.643a4db46488a70ca6ffa91b2f815f80.png",122 Canal 13
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal_13_Chile_2018.svg/revision/latest/scale-to-width-down/200?cb=20210315190928&path-prefix=es",122 Canal 13
 http://45.225.95.170:8000/play/a0g1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.Zona_Latina_Alt_2021.png.3bc0074f42e2925ef35f343cdc34aa9b.png",123 Zona Latina
@@ -165,7 +165,7 @@ http://45.225.95.171:7577/play/a0xc/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Telesur_%282017%29.png/revision/latest/scale-to-width-down/150?cb=20220903012506&path-prefix=es",451 Telesur
 http://45.225.95.170:8000/play/a0j8/index.m3u8
 
-#EXTINF:-1,477 Teletrak
+#EXTINF:-1 tvg-logo"https://static.wikia.nocookie.net/logopedia/images/5/5c/Logoteletrak2008.png/revision/latest/scale-to-width-down/200?cb=20190903233759&path-prefix=es",477 Teletrak
 http://45.225.95.170:8000/play/a0gc/index.m3u8
 
 #EXTINF:-1,479 Fox Sports 3
