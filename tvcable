@@ -165,10 +165,10 @@ http://45.225.95.171:7577/play/a0xc/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Telesur_%282017%29.png/revision/latest/scale-to-width-down/150?cb=20220903012506&path-prefix=es",451 Telesur
 http://45.225.95.170:8000/play/a0j8/index.m3u8
 
-#EXTINF:-1 tvg-logo"https://static.wikia.nocookie.net/logopedia/images/5/5c/Logoteletrak2008.png/revision/latest/scale-to-width-down/200?cb=20190903233759&path-prefix=es",477 Teletrak
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Logoteletrak2008.png/revision/latest/scale-to-width-down/200?cb=20190903233759&path-prefix=es",477 Teletrak
 http://45.225.95.170:8000/play/a0gc/index.m3u8
 
-#EXTINF:-1,479 Fox Sports 3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/FOXSports3LA.png/revision/latest/scale-to-width-down/300?cb=20230305145044&path-prefix=es",479 Fox Sports 3
 http://45.225.95.170:8000/play/a0ja/index.m3u8
 
 #EXTINF:-1,480 ESPN
