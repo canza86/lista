@@ -171,34 +171,34 @@ http://45.225.95.170:8000/play/a0gc/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/FOXSports3LA.png/revision/latest/scale-to-width-down/300?cb=20230305145044&path-prefix=es",479 Fox Sports 3
 http://45.225.95.170:8000/play/a0ja/index.m3u8
 
-#EXTINF:-1,480 ESPN
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20210102195101&path-prefix=es",480 ESPN
 http://45.225.95.170:8000/play/a0hm/index.m3u8
 
-#EXTINF:-1,482 ESPN2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/300?cb=20200105155601&path-prefix=es",482 ESPN2
 http://45.225.95.170:8000/play/a0hn/index.m3u8
 
-#EXTINF:-1,483 ESPN 4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211129170304&path-prefix=es",483 ESPN 4
 http://45.225.95.170:8000/play/a0ig/index.m3u8
 
-#EXTINF:-1,484 TNT SPORTS 3
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png",484 TNT SPORTS 3
 http://45.162.132.145:8850/play/a02g/index.m3u8
 
-#EXTINF:-1,485 Fox Sports 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Fs1.png/revision/latest/scale-to-width-down/300?cb=20210417005625&path-prefix=es",485 Fox Sports 1
 http://45.225.95.170:8000/play/a0ho/index.m3u8
 
-#EXTINF:-1,486 TNT SPORTS 2
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_2_blanco.png.431ff1b3ae8a01b855d8206073766f17.png",486 TNT SPORTS 2
 http://45.225.95.170:8000/play/a0if/index.m3u8
 
-#EXTINF:-1,490 Fox Sports 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest/scale-to-width-down/250?cb=20230305144028&path-prefix=es",490 Fox Sports 2
 http://45.225.95.170:8000/play/a0gz/index.m3u8
 
-#EXTINF:-1,493 CDO Basico
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest/scale-to-width-down/275?cb=20211122020635&path-prefix=es",493 CDO Basico
 http://45.225.95.170:8000/play/a0fk/index.m3u8
 
-#EXTINF:-1,494 CDO Premium
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large.CDO-premium.png.0210ba6bcdc800549fbfde389c7d1eef.png",494 CDO Premium
 http://45.225.95.170:8000/play/a0fl/index.m3u8
 
-#EXTINF:-1,495 ESPN 3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest/scale-to-width-down/300?cb=20151012185318&path-prefix=es",495 ESPN 3
 http://45.225.95.170:8000/play/a0fm/index.m3u8
 
 #EXTINF:-1,501 Warner Channel
