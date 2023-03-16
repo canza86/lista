@@ -12,13 +12,13 @@ http://45.225.95.170:8000/play/a0fx/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVN_Chile_2020.svg/revision/latest/scale-to-width-down/200?cb=20210906211246&path-prefix=es",119 TVN
 http://45.225.95.170:8000/play/a0fy/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Mega_2020.svg/revision/latest/scale-to-width-down/225?cb=20210329134307&path-prefix=es",120 MEGA
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/small.Logomega2020.png.ef643684b3a31614a0e24bb338124d2d.png",120 MEGA
 http://45.225.95.170:8000/play/a0fz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_02/large.5a8c6a702e9cf_LogoCHV2018Blanco1.png.46fe4fbddd7de2f13abc0d53500758bc.png",121 CHV
 http://45.225.95.170:8000/play/a0g0/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal_13_Chile_2018.svg/revision/latest/scale-to-width-down/200?cb=20210315190928&path-prefix=es",122 Canal 13
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/small.5ab7d5a69df21_Canal13Chile.png.05b653075c2dfa53ef6c8f4589834eae.png",122 Canal 13
 http://45.225.95.170:8000/play/a0g1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/small.Zona_Latina_Alt_2021.png.5fec9c65ce3e2be9b159608c9b8494a8.png",123 Zona Latina
@@ -45,7 +45,7 @@ http://45.225.95.170:8000/play/a0gw/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/small.DK_FullLogo_Hero_Flat.png.a33570ce697f0b8a726d415dd414da25.png",303 Discovery Kids
 http://45.232.210.1:8062/play/a082/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Disney_Channel_2019.svg/revision/latest/scale-to-width-down/250?cb=20200126030048&path-prefix=es",304 Disney Channel
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/large.Disney_Channel_Logo_2019.png.906b4e4941001d36b389f72e4e84d3ec.png",304 Disney Channel
 http://45.225.95.170:8000/play/a0i6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_11/large.1245621174_Cartoonito_logo_2021_28alternate29.png.f8f609307e5f6cb659ffa40cfd2766c9.png",306 Cartoonito
@@ -102,7 +102,7 @@ http://45.225.95.170:8000/play/a0hh/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1155_2_21591.png",376 Glitz*
 http://45.225.95.170:8000/play/a0g8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_10/large.TelemundoIntl2018.png.cabcb63374fc3ce2e8e59fd38fd6d72d.png",381 Telemundo
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_10/small.TelemundoIntl2018.png.63239b6b05007e74c55bac7e8d505f80.png",381 Telemundo
 http://45.225.95.170:8000/play/a0eo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest/scale-to-width-down/200?cb=20211211213253&path-prefix=es",387 MTV
@@ -123,7 +123,7 @@ http://45.225.95.170:8000/play/a0j4/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/24HTVN2015-0.png/revision/latest/scale-to-width-down/300?cb=20200329000100&path-prefix=es",423 24 Horas TVN
 http://45.225.95.170:8000/play/a0ga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/CNN_Chile_2017.svg/revision/latest/scale-to-width-down/175?cb=20220409052356&path-prefix=es",424 CNN Chile
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/small.58ef8d8173f74_CNNChile.png.12d511a9e62fffdb8dc37003ce71bf91.png",424 CNN Chile
 http://45.225.95.170:8000/play/a0hk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/TV_Senado_Chile_2022.svg/revision/latest/scale-to-width-down/350?cb=20230210131544&path-prefix=es",425 TV Senado
@@ -132,10 +132,10 @@ http://45.225.95.170:8000/play/a0ff/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/C%C3%A1mara_de_Diputadas_y_Diputados_de_Chile_2020.svg/revision/latest/scale-to-width-down/175?cb=20210617042908&path-prefix=es",426 TV Diputados
 http://45.225.95.170:8000/play/a0fg/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/MP2017.png/revision/latest/scale-to-width-down/200?cb=20200122220848&path-prefix=es",430 Movistar Plus
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/small.MovistarPlus-Peru.png.4962a5db2ad99a2c1d1040a279898abd.png",430 Movistar Plus
 http://45.225.95.170:8000/play/a0ed/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_01/small.800px-Telefe_(nuevo_logo).png.f630d7f0ceb1f890f4954126d606136e.png",431 Telefe
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_11/small.TelefeInternacional2018.png.dae8071b2511b5e0af5398dcca9319fa.png",431 Telefe
 http://45.225.95.170:8000/play/a0ie/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Peru_Magico_2016_%281%29.png/revision/latest/scale-to-width-down/250?cb=20210405190247&path-prefix=es",432 Peru Magico
@@ -144,13 +144,13 @@ http://45.225.95.170:8000/play/a0es/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/TVE_2008_logo_mosca.svg/revision/latest/scale-to-width-down/200?cb=20210508190928&path-prefix=es",434 TVE
 http://45.225.95.170:8000/play/a0fh/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Antena_3_Internacional_2017.png/revision/latest/scale-to-width-down/180?cb=20191204133939&path-prefix=es",435 Antena 3
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/small.590a48381c6d4_Antena3Internacional.png.c55e9fb6d79fcede44861650b5d1a53e.png",435 Antena 3
 http://45.225.95.170:8000/play/a0hl/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Eurochannel_%282015%29.svg/revision/latest/scale-to-width-down/300?cb=20210514180237&path-prefix=es",436 Eurochannel
 http://45.225.95.170:8000/play/a0j5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Rai_Italia_2017.png/revision/latest/scale-to-width-down/300?cb=20200805145329&path-prefix=es",437 RAI
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.5903527c8d88a_RaiItalia2017.png.5571c3f66116d8b9d1219a244fd02ba5.png",437 RAI
 http://45.225.95.170:8000/play/a0j6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/250?cb=20210624152344&path-prefix=es",438 DW (Deutsch +)
@@ -162,7 +162,7 @@ http://45.225.95.170:8000/play/a0fi/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Cristovisi%C3%B3n_2016.png/revision/latest/scale-to-width-down/168?cb=20210503213723&path-prefix=es",446 Cristovision
 http://45.225.95.171:7577/play/a0xc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Telesur_%282017%29.png/revision/latest/scale-to-width-down/150?cb=20220903012506&path-prefix=es",451 Telesur
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_10/small.Telesur-2017-2.png.bc1e3b97cabaadcec136aa9482ba69c6.png",451 Telesur
 http://45.225.95.170:8000/play/a0j8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Logoteletrak2008.png/revision/latest/scale-to-width-down/200?cb=20190903233759&path-prefix=es",477 Teletrak
@@ -228,13 +228,13 @@ http://45.225.95.170:8000/play/a0jc/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/small.2000px-Logo_Lifetime_2020_svg.png.eed8c76208fb73b96d323418cfd05885.png",521 Lifetime
 http://45.225.95.170:8000/play/a0ih/index.m3u8
 
-#EXTINF:-1,548 SyFy
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/small.SyfyRebootLead.jpg.fcb7535e5656adc6eefd488f22d25c18.jpg",548 SyFy
 http://45.225.95.170:8000/play/a0hr/index.m3u8
 
 #EXTINF:-1,595 TNT
 http://45.225.95.170:8000/play/a0jd/index.m3u8
 
-#EXTINF:-1,596 TNT Series
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_11/small.583f2aa9cd45f_LogoTNTSeries(Blanco).png.c76011fd3182ee8655723a04ebc5490b.png",596 TNT Series
 http://45.225.95.170:8000/play/a0je/index.m3u8
 
 #EXTINF:-1,602 Studio Universal
@@ -252,10 +252,10 @@ http://45.225.95.170:8000/play/a0h3/index.m3u8
 #EXTINF:-1,606 Clover
 http://45.225.95.170:8000/play/a0hb/index.m3u8
 
-#EXTINF:-1,607 FX
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.1543352145820.png.bd474f871c396813570583c2980fdc5e.png",607 FX
 http://45.225.95.170:8000/play/a0fq/index.m3u8
 
-#EXTINF:-1,609 Paramount Channel
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_05/small.a7c30b35-65b0-4e7a-89cd-667ee2028df9.png.bb6176dfcff61d5fba40149b2502948f.png",609 Paramount Channel
 http://45.225.95.170:8000/play/a0h4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.300px-CinecanalLA.png.d7148496039272330a21020818e03e28.png",615 Cinecanal
@@ -303,10 +303,10 @@ http://45.225.95.170:8000/play/a0i7/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.Discovery_Turbo_2021.png.af37570bb4d51fd577ad49c3974711e5.png",713 Discovery Turbo
 http://45.225.95.170:8000/play/a0io/index.m3u8
 
-#EXTINF:-1,731 Nuestra Tele
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/small.NuestraTeleInternacional2019.png.a479c2fb264f7375595a4d809a13f08c.png",731 Nuestra Tele
 http://45.225.95.170:8000/play/a0ip/index.m3u8
 
-#EXTINF:-1,732 El Trece
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/small.1108975472_131sinttulo_20200701022721.png.0aca8fea798348bc54423c03a3caec39.png",732 El Trece
 http://45.225.95.170:8000/play/a0f0/index.m3u8
 
 #EXTINF:-1,733 Enlace
@@ -324,7 +324,7 @@ http://45.225.95.170:8000/play/a0f1/index.m3u8
 #EXTINF:-1,751 Golf Channel
 http://45.225.95.170:8000/play/a0fw/index.m3u8
 
-#EXTINF:-1,786 Movistar Deportes
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.MovistarDeportes-Peru.png.03f1274791dec8bd17af84b5d853bfde.png",786 Movistar Deportes
 http://45.225.95.170:8000/play/a0ea/index.m3u8
 
 #EXTINF:-1,787 Canal N
@@ -435,7 +435,7 @@ http://38.7.204.131:8000/play/a011/index.m3u8
 #EXTINF:-1,861 A&E HD
 http://38.7.204.131:8000/play/a00u/index.m3u8
 
-#EXTINF:-1,862 ATRES SERIES
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/small.1734697758_Atreseries(2020)-alterno.png.cb4ba579f94f166cbc3c490de36d1909.png",862 ATRES SERIES
 http://38.7.204.131:8000/play/a00w/index.m3u8
 
 #EXTINF:-1,863 Comedy Central HD
@@ -444,10 +444,10 @@ http://38.7.204.131:8000/play/a02b/index.m3u8
 #EXTINF:-1,866 MTV HD
 http://38.7.204.131:8000/play/a03z/index.m3u8
 
-#EXTINF:-1,869 TNT Series HD
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/small.5a3bbca60bf99_TNTSeriesHD.png.ed6176450b8312e7caed8d3facddeee5.png",869 TNT Series HD
 http://38.7.204.131:8000/play/a03u/index.m3u8
 
-#EXTINF:-1,870 TNT HD
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/small.5a3bbbf4385f7_TNTHD.png.409167d8cdb5449ae1faf263a5ac577d.png",870 TNT HD
 http://38.7.204.131:8000/play/a01a/index.m3u8
 
 #EXTINF:-1,871 Space HD
@@ -495,7 +495,7 @@ http://38.7.204.131:8000/play/a01t/index.m3u8
 #EXTINF:-1,893 TyC Sports
 http://38.7.204.131:8000/play/a02c/index.m3u8
 
-#EXTINF:-1,894 Gol TV
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.sketch-1580686212613.png.e84227e062d12075c4d8b5b4dd5ba216.png",894 Gol TV
 http://38.7.204.131:8000/play/a045/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd_blanco.png.8effa63ae6fa3bb793919341e5fc1c8d.png",896 TNT SPORTS HD
