@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Telecanal_2011.svg/revision/latest/scale-to-width-down/200?cb=20220613194854&path-prefix=es",116 Telecanal
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_20735.png",116 Telecanal
 http://45.225.95.170:8000/play/a0h8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_12/small.Emblema_de_La_Red.png.5cd1931f97dcfe7a7934ad3c5f6ca0fe.png",117 La Red
@@ -246,7 +246,7 @@ http://45.225.95.170:8000/play/a0h2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.small.1280px-SpaceLogo_svg.png.8656b1ea361aa1f2a74ab7e3694a46b5.png.92c20dff0cfc5398498e0515135ae0d9.png",604 Space
 http://45.225.95.170:8000/play/a0il/index.m3u8
 
-#EXTINF:-1,605 I SAT
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_1147.png",605 I SAT
 http://45.225.95.170:8000/play/a0h3/index.m3u8
 
 #EXTINF:-1,606 Clover
