@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_20735.png",116 Telecanal
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/small.telecanal.png.16e37e973718fc1cc8a91323ad279458.png",116 Telecanal
 http://45.225.95.170:8000/play/a0h8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_12/small.Emblema_de_La_Red.png.5cd1931f97dcfe7a7934ad3c5f6ca0fe.png",117 La Red
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.131469466_LaRed(Chile)Logo20212.png.0c29b32c0fe9d9c0b24ffdbdba227c4a.png",117 La Red
 http://45.225.95.170:8000/play/a0f7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_11/large.1288457957_TV_(2018)Blanco.png.b7b98adb3da2f82804a11af52312643b.png",118 TV+
@@ -21,7 +21,7 @@ http://45.225.95.170:8000/play/a0g0/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/small.5ab7d5a69df21_Canal13Chile.png.05b653075c2dfa53ef6c8f4589834eae.png",122 Canal 13
 http://45.225.95.170:8000/play/a0g1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/small.Zona_Latina_Alt_2021.png.5fec9c65ce3e2be9b159608c9b8494a8.png",123 Zona Latina
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/small.Zona_Latina_Alt_2021.png.e4b686e2c78f992f4244a07e8c563cbf.png",123 Zona Latina
 http://45.225.95.170:8000/play/a0g2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1178_6_4097.png",124 Via X
@@ -75,13 +75,13 @@ http://45.162.132.145:8850/play/a02e/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/small.small.733000_1439291548.png.d3708eaa9086e132f08f8f20c4921dc9.png.cac2ddd2e18c5c8f9065eedc53932441.png",352 National Geographic
 http://45.225.95.170:8000/play/a0hf/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_02/large.History2_logo_(2022)_svg.png.c53d48b6b07516be8b8b8d199e59b0a7.png",353 History 2
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_02/large.aDJfaGlzdG9yeV9tZXhfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png.11f47a97eed1b1781e4865d43080c7bd.png",353 History 2
 http://45.225.95.170:8000/play/a0hg/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/1325251773_logo(11).png.2d83180927d4295b60730dbf97df5321.png",354 History Channel
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_02/large.aGlzdG9yeV9jaGFubmVsX21leGljb19oZF9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png.8c29c646c15e0821e5a355becc9b43f7.png",354 History Channel
 http://45.225.95.170:8000/play/a0fb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_05/small.207902319_HH.png.1c7ab1ba61720c9d846532609ffae767.png",355 Discovery H&H
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.84821268072218.png.a4f187b2a6baf4c3d176da6f844167d2.png",355 Discovery H&H
 http://45.225.95.170:8000/play/a0fc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_07/small.TLC_logo_2021.png.509e7a762e7afbe2da8aa957f50cb09c.png",356 TLC
@@ -177,7 +177,7 @@ http://45.225.95.170:8000/play/a0hm/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.29410352073189.png.71dd95c97bf4aab0067f42e1702fd6b7.png",482 ESPN2
 http://45.225.95.170:8000/play/a0hn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211129170304&path-prefix=es",483 ESPN 4
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png",483 ESPN 4
 http://45.225.95.170:8000/play/a0ig/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png",484 TNT SPORTS 3
@@ -249,7 +249,7 @@ http://45.225.95.170:8000/play/a0il/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_1147.png",605 I SAT
 http://45.225.95.170:8000/play/a0h3/index.m3u8
 
-#EXTINF:-1,606 Clover
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.CloverChannel.png.bab48f4c4eb4d743a4b023b5161ab095.png",606 Clover
 http://45.225.95.170:8000/play/a0hb/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.1543352145820.png.bd474f871c396813570583c2980fdc5e.png",607 FX
@@ -393,7 +393,7 @@ http://38.7.204.131:8000/play/a01j/index.m3u8
 #EXTINF:-1,839 FOOD NETWORK HD
 http://38.7.204.131:8000/play/a038/index.m3u8
 
-#EXTINF:-1,840 Discovery H&H HD
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.DHHHDNew.png.2f63e0d28029ab348464a8dcb44e79f7.png",840 Discovery H&H HD
 http://38.7.204.131:8000/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/small.small.1200px-World_Discovery_HD_logo_svg.png.48c5198894eb396adc89174d896b2fd1.png.d502ee865d3d3e306c1710713b01dcb0.png",841 Discovery World HD
