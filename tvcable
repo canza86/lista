@@ -228,10 +228,10 @@ http://45.225.95.170:8000/play/a0jc/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/small.2000px-Logo_Lifetime_2020_svg.png.eed8c76208fb73b96d323418cfd05885.png",521 Lifetime
 http://45.225.95.170:8000/play/a0ih/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/small.SyfyRebootLead.jpg.fcb7535e5656adc6eefd488f22d25c18.jpg",548 SyFy
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/small.Module08_LOGO_Issues_25_CROPPED-2152x973.png.838d7fac2cc3decfe06eedd51a34f07f.png",548 SyFy
 http://45.225.95.170:8000/play/a0hr/index.m3u8
 
-#EXTINF:-1,595 TNT
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/small.large.5a3bbbf4385f7_TNTHD.png.28b9cebb40b649faba1147c4a5baf313.png.9318dfe6c22af3118608b0250dafa133.png",595 TNT
 http://45.225.95.170:8000/play/a0jd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_11/small.583f2aa9cd45f_LogoTNTSeries(Blanco).png.c76011fd3182ee8655723a04ebc5490b.png",596 TNT Series
@@ -267,7 +267,7 @@ http://45.225.95.170:8000/play/a0h5/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.HBO-logo.png.a54ed3feaa0b04aae4932642fcda4776.png",629 HBO SD
 http://45.225.95.170:8000/play/a0hs/index.m3u8
 
-#EXTINF:-1,630 HBO
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large_HBO.png.fc69874881395c92afe9361dbd2013f7.png",630 HBO
 http://45.225.95.170:8000/play/a0ex/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_03/small.hbo_fam_dark_2021.png.02f3c24d4dbb10f72c617c7b46ab1872.png",631 HBO Family
@@ -294,7 +294,7 @@ http://45.225.95.170:8000/play/a0ez/index.m3u8
 #EXTINF:-1,702 Tooncast
 http://45.225.95.170:8000/play/a0jk/index.m3u8
 
-#EXTINF:-1,711 Discovery Science
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.1256266003_DiscoveryScience.png.e138efa601a4a48f46f4c00916294aa8.png",711 Discovery Science
 http://45.225.95.170:8000/play/a0h6/index.m3u8
 
 #EXTINF:-1,712 HGTV
@@ -321,7 +321,7 @@ http://45.225.95.170:8000/play/a0hx/index.m3u8
 #EXTINF:-1,742 WOBI
 http://45.225.95.170:8000/play/a0f1/index.m3u8
 
-#EXTINF:-1,751 Golf Channel
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.1115535980_GolfChannel.png.d24760fe44b0d94bb234b639fccb7ba9.png",751 Golf Channel
 http://45.225.95.170:8000/play/a0fw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.MovistarDeportes-Peru.png.03f1274791dec8bd17af84b5d853bfde.png",786 Movistar Deportes
