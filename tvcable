@@ -177,7 +177,7 @@ http://45.225.95.170:8000/play/a0hm/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.29410352073189.png.71dd95c97bf4aab0067f42e1702fd6b7.png",482 ESPN2
 http://45.225.95.170:8000/play/a0hn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png",483 ESPN 4
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_11/large.1905650939_ESPN4.png.66e5580fda43eb907003d41f9d4770f4.png",483 ESPN 4
 http://45.225.95.170:8000/play/a0ig/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png",484 TNT SPORTS 3
