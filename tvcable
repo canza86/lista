@@ -75,10 +75,10 @@ http://45.162.132.145:8850/play/a02e/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/small.small.733000_1439291548.png.d3708eaa9086e132f08f8f20c4921dc9.png.cac2ddd2e18c5c8f9065eedc53932441.png",352 National Geographic
 http://45.225.95.170:8000/play/a0hf/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_02/large.aDJfaGlzdG9yeV9tZXhfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png.11f47a97eed1b1781e4865d43080c7bd.png",353 History 2
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_02/large.History2.png.d37065549355eb870830a5645ae0559e.png",353 History 2
 http://45.225.95.170:8000/play/a0hg/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_02/large.aGlzdG9yeV9jaGFubmVsX21leGljb19oZF9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png.8c29c646c15e0821e5a355becc9b43f7.png",354 History Channel
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_02/large.History.png.4e0294aa3dc8b67314a0b7aa8fdee383.png",354 History Channel
 http://45.225.95.170:8000/play/a0fb/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.84821268072218.png.a4f187b2a6baf4c3d176da6f844167d2.png",355 Discovery H&H
@@ -90,7 +90,7 @@ http://45.225.95.170:8000/play/a0iz/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/300?cb=20220303220459&path-prefix=es",361 Love Nature
 http://45.225.95.170:8000/play/a0g5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/180?cb=20230208035231&path-prefix=es",370 Kanal D Drama
+#EXTINF:-1 tvg-logo="https://www.kanalddrama.com/assets/img/logotop2.png",370 Kanal D Drama
 http://45.225.95.170:8000/play/a0ek/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/375419690_IDDiscoveryLatinoamerica.png.0b9d81534f417ef49bd6f41ade2026b4.png",372 ID - Investigation Discovery
