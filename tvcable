@@ -237,7 +237,7 @@ http://45.225.95.170:8000/play/a0jd/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_11/small.583f2aa9cd45f_LogoTNTSeries(Blanco).png.c76011fd3182ee8655723a04ebc5490b.png",596 TNT Series
 http://45.225.95.170:8000/play/a0je/index.m3u8
 
-#EXTINF:-1,602 Studio Universal
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ec41419dee076dce6e_suc.png",602 Studio Universal
 http://45.225.95.170:8000/play/a0ik/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_04/large.TCM.png.e267ba39b313fa53adc85da94d4a901a.png",603 TCM
