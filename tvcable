@@ -96,7 +96,7 @@ http://45.225.95.170:8000/play/a0ek/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/375419690_IDDiscoveryLatinoamerica.png.0b9d81534f417ef49bd6f41ade2026b4.png",372 ID - Investigation Discovery
 http://45.225.95.170:8000/play/a0fp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.1523987840_logoe.png.68a2bfeb3e2d7e38ed741cc47e9dab96.png",374 E! Entertainment TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/E_onscreen_bug.svg/revision/latest/scale-to-width-down/46?cb=20220823124531",374 E! Entertainment TV
 http://45.225.95.170:8000/play/a0hh/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1155_2_21591.png",376 Glitz*
@@ -231,7 +231,7 @@ http://45.225.95.170:8000/play/a0ih/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/small.Module08_LOGO_Issues_25_CROPPED-2152x973.png.838d7fac2cc3decfe06eedd51a34f07f.png",548 SyFy
 http://45.225.95.170:8000/play/a0hr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/small.large.5a3bbbf4385f7_TNTHD.png.28b9cebb40b649faba1147c4a5baf313.png.9318dfe6c22af3118608b0250dafa133.png",595 TNT
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/TNT_2016_%28Teal%29.svg/revision/latest/scale-to-width-down/185?cb=20170609120943",595 TNT
 http://45.225.95.170:8000/play/a0jd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_11/small.583f2aa9cd45f_LogoTNTSeries(Blanco).png.c76011fd3182ee8655723a04ebc5490b.png",596 TNT Series
