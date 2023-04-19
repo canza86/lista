@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/small.telecanal.png.16e37e973718fc1cc8a91323ad279458.png",116 Telecanal
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Telecanal_2011.svg/revision/latest/scale-to-width-down/600?cb=20220613194854&path-prefix=es",116 Telecanal
 http://45.225.95.170:8000/play/a0h8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.131469466_LaRed(Chile)Logo20212.png.0c29b32c0fe9d9c0b24ffdbdba227c4a.png",117 La Red
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/La_Red.svg/revision/latest/scale-to-width-down/600?cb=20220324042147",117 La Red
 http://45.225.95.170:8000/play/a0f7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_11/large.1288457957_TV_(2018)Blanco.png.b7b98adb3da2f82804a11af52312643b.png",118 TV+
@@ -12,19 +12,19 @@ http://45.225.95.170:8000/play/a0fx/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVN_Chile_2020.svg/revision/latest/scale-to-width-down/200?cb=20210906211246&path-prefix=es",119 TVN
 http://45.225.95.170:8000/play/a0fy/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/small.Logomega2020.png.ef643684b3a31614a0e24bb338124d2d.png",120 MEGA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Mega_2020.svg/revision/latest/scale-to-width-down/600?cb=20230331024750&path-prefix=es",120 MEGA
 http://45.225.95.170:8000/play/a0fz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_02/large.5a8c6a702e9cf_LogoCHV2018Blanco1.png.46fe4fbddd7de2f13abc0d53500758bc.png",121 CHV
 http://45.225.95.170:8000/play/a0g0/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/small.5ab7d5a69df21_Canal13Chile.png.05b653075c2dfa53ef6c8f4589834eae.png",122 Canal 13
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal_13_Chile_2018.svg/revision/latest/scale-to-width-down/600?cb=20210315190928&path-prefix=es",122 Canal 13
 http://45.225.95.170:8000/play/a0g1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/small.Zona_Latina_Alt_2021.png.e4b686e2c78f992f4244a07e8c563cbf.png",123 Zona Latina
 http://45.225.95.170:8000/play/a0g2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1178_6_4097.png",124 Via X
+#EXTINF:-1 tvg-logo="https://canalviax.com/wp-content/uploads/2022/12/LOGO-ORIGINAL.png",124 Via X
 http://45.225.95.170:8000/play/a0g3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/13C_2018.svg/revision/latest/scale-to-width-down/200?cb=20230122134738&path-prefix=es",125 13 C
