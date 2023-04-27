@@ -87,22 +87,22 @@ http://45.225.95.170:8000/play/a0fc/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/TLC_2021.svg/revision/latest/scale-to-width-down/600?cb=20220706233159&path-prefix=es",356 TLC
 http://45.225.95.170:8000/play/a0iz/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/300?cb=20220303220459&path-prefix=es",361 Love Nature
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/600?cb=20220303220459&path-prefix=es",361 Love Nature
 http://45.225.95.170:8000/play/a0g5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.kanalddrama.com/assets/img/logotop2.png",370 Kanal D Drama
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/600?cb=20230208035231&path-prefix=es",370 Kanal D Drama
 http://45.225.95.170:8000/play/a0ek/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/375419690_IDDiscoveryLatinoamerica.png.0b9d81534f417ef49bd6f41ade2026b4.png",372 ID - Investigation Discovery
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Investigation_Discovery_LA_2020_Rojo_2D.png/revision/latest/scale-to-width-down/600?cb=20200923135820&path-prefix=es",372 ID - Investigation Discovery
 http://45.225.95.170:8000/play/a0fp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/E_onscreen_bug.svg/revision/latest/scale-to-width-down/46?cb=20220823124531",374 E! Entertainment TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canza86/images/main/600_cb%3D20220412010345%26path-prefix%3Des.png",374 E! Entertainment TV
 http://45.225.95.170:8000/play/a0hh/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1155_2_21591.png",376 Glitz*
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Glitz_2011.svg/revision/latest/scale-to-width-down/600?cb=20220120044212&path-prefix=es",376 Glitz*
 http://45.225.95.170:8000/play/a0g8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_10/small.TelemundoIntl2018.png.63239b6b05007e74c55bac7e8d505f80.png",381 Telemundo
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Telemundo_Internacional_Logo_%282018-presente%29.png/revision/latest/scale-to-width-down/600?cb=20181101133212&path-prefix=es",381 Telemundo
 http://45.225.95.170:8000/play/a0eo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest/scale-to-width-down/200?cb=20211211213253&path-prefix=es",387 MTV
