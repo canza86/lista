@@ -156,7 +156,7 @@ http://45.225.95.170:8000/play/a0j6/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/600?cb=20210624152344&path-prefix=es",438 DW (Deutsch +)
 http://45.225.95.170:8000/play/a0j7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_02/large.2.png.ee7314e2d55fc99f91cede718077b31d.png",439 EWTN
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_02/large.2.png.b6bcedbbca023cfd3d246f9a0f263587.png",439 EWTN
 http://45.225.95.170:8000/play/a0fi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Cristovisi%C3%B3n_2016.png/revision/latest/scale-to-width-down/600?cb=20210503213723&path-prefix=es",446 Cristovision
@@ -201,16 +201,16 @@ http://45.225.95.170:8000/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest/scale-to-width-down/600?cb=20151012185318&path-prefix=es",495 ESPN 3
 http://45.225.95.170:8000/play/a0fm/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/small.Warner2018LA.png.6d4ac39623578dfad6560c48846e5c33.png",501 Warner Channel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Warner_%282018%29.png/revision/latest/scale-to-width-down/600?cb=20190208204234&path-prefix=es",501 Warner Channel
 http://45.225.95.170:8000/play/a0ev/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.StarChannelLA.png.bceb034b7b43ab55822c90aed2ed28a9.png",502 STAR CHANNEL
 http://45.225.95.170:8000/play/a0gg/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/small.Sony_Channel_Logo.png.06179413af4b409894171fe4abd0d475.png",503 Sony
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/600?cb=20230305160915&path-prefix=es",503 Sony
 http://45.225.95.170:8000/play/a0hp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/small.small.dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png.8fb6d1877edea33881bb14210d46fa24.png.853f2eb2570a78079b67faf4dab7886c.png",504 AXN
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.k0orT3gUe8EUzpeZf27J2QAAAA?w=216&h=140&c=7&r=0&o=5&dpr=1.5&pid=1.7",504 AXN
 http://45.225.95.170:8000/play/a0fn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/small.1200px-Logo_AE_Germany_svg.png.13492e7e0f1789c5e17dc54b9a32fb73.png",506 A&E
