@@ -210,37 +210,37 @@ http://45.225.95.170:8000/play/a0gg/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/600?cb=20230305160915&path-prefix=es",503 Sony
 http://45.225.95.170:8000/play/a0hp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.k0orT3gUe8EUzpeZf27J2QAAAA?w=216&h=140&c=7&r=0&o=5&dpr=1.5&pid=1.7",504 AXN
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/AXN_osb_new.svg/revision/latest/scale-to-width-down/600?cb=20230119194116",504 AXN
 http://45.225.95.170:8000/play/a0fn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/small.1200px-Logo_AE_Germany_svg.png.13492e7e0f1789c5e17dc54b9a32fb73.png",506 A&E
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/A%26e_network-logo_blue.svg/revision/latest/scale-to-width-down/600?cb=20220815071021",506 A&E
 http://45.225.95.170:8000/play/a0jb/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.279164273_Sinttulo-2.png.76ad4cb9eab671cd50633ebfeacc11c9.png",508 Comedy Central
 http://45.162.132.145:8850/play/a03u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/small.large.UniversalTV-2018.png.72fb6db058808aebd92451f96c6affde.png.2193f26f28248e76ac8695f589224d54.png",510 Universal
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Universal_TV_logo.svg/revision/latest/scale-to-width-down/600?cb=20210103235912",510 Universal
 http://45.225.95.170:8000/play/a0fo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/large.TruTV_logo_2014.png.e973ac4a87777dde980008f5da3ec7b2.png",511 Tru TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/TruTV_2020_Blue.svg/revision/latest/scale-to-width-down/600?cb=20220202215031&path-prefix=es",511 Tru TV
 http://45.225.95.170:8000/play/a0jc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/small.2000px-Logo_Lifetime_2020_svg.png.eed8c76208fb73b96d323418cfd05885.png",521 Lifetime
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lifetime_Logo_%282020-presente%29.svg/revision/latest/scale-to-width-down/600?cb=20200125121516&path-prefix=es",521 Lifetime
 http://45.225.95.170:8000/play/a0ih/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/small.Module08_LOGO_Issues_25_CROPPED-2152x973.png.838d7fac2cc3decfe06eedd51a34f07f.png",548 SyFy
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest/scale-to-width-down/600?cb=20200409185924&path-prefix=es",548 SyFy
 http://45.225.95.170:8000/play/a0hr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/TNT_2016_%28Teal%29.svg/revision/latest/scale-to-width-down/185?cb=20170609120943",595 TNT
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/TNT_2016_%28Teal%29.svg/revision/latest/scale-to-width-down/600?cb=20170609120943",595 TNT
 http://45.225.95.170:8000/play/a0jd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_11/small.583f2aa9cd45f_LogoTNTSeries(Blanco).png.c76011fd3182ee8655723a04ebc5490b.png",596 TNT Series
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Tnt-series-latin-america.svg/revision/latest/scale-to-width-down/600?cb=20200116195222&path-prefix=es",596 TNT Series
 http://45.225.95.170:8000/play/a0je/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ec41419dee076dce6e_suc.png",602 Studio Universal
 http://45.225.95.170:8000/play/a0ik/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_04/large.TCM.png.e267ba39b313fa53adc85da94d4a901a.png",603 TCM
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TCMLA.png/revision/latest?cb=20181101141407&path-prefix=es",603 TCM
 http://45.225.95.170:8000/play/a0h2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.small.1280px-SpaceLogo_svg.png.8656b1ea361aa1f2a74ab7e3694a46b5.png.92c20dff0cfc5398498e0515135ae0d9.png",604 Space
