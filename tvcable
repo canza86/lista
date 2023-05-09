@@ -264,13 +264,13 @@ http://45.225.95.170:8000/play/a0gi/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest/scale-to-width-down/600?cb=20201205114958",616 Cinemax
 http://45.225.95.170:8000/play/a0h5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.HBO-logo.png.a54ed3feaa0b04aae4932642fcda4776.png",629 HBO SD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/HBO_1980_Blue.svg/revision/latest/scale-to-width-down/600?cb=20161226123432",629 HBO SD
 http://45.225.95.170:8000/play/a0hs/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large_HBO.png.fc69874881395c92afe9361dbd2013f7.png",630 HBO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/HBO_1980_Gray.svg/revision/latest/scale-to-width-down/600?cb=20161226123346",630 HBO
 http://45.225.95.170:8000/play/a0ex/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_03/small.hbo_fam_dark_2021.png.02f3c24d4dbb10f72c617c7b46ab1872.png",631 HBO Family
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/HBO_Family_2021.svg/revision/latest/scale-to-width-down/600?cb=20230305154012&path-prefix=es",631 HBO Family
 http://45.225.95.170:8000/play/a0jg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/small.Wz3WemY.png.a264f78894f83f7c88b69c15cb570dde.png",632 HBO XTREME
