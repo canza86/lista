@@ -93,7 +93,7 @@ http://45.225.95.170:8000/play/a0g5/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/600?cb=20230208035231&path-prefix=es",370 Kanal D Drama
 http://45.225.95.170:8000/play/a0ek/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Investigation_Discovery_LA_2020_Rojo_2D.png/revision/latest/scale-to-width-down/600?cb=20200923135820&path-prefix=es",372 ID - Investigation Discovery
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/ID-2020.svg/revision/latest/scale-to-width-down/250?cb=20200413032314",372 ID - Investigation Discovery
 http://45.225.95.170:8000/play/a0fp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canza86/images/main/600_cb%3D20220412010345%26path-prefix%3Des.png",374 E! Entertainment TV
@@ -120,7 +120,7 @@ http://45.225.95.170:8000/play/a0j3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.small.5842ab75a6515b1e0ad75b0b.png.ce12289e829cb15cdcf30915ecbef784.png.7de2d07fd3c0d91ee7967955f1a49696.png",403 CNN International
 http://45.225.95.170:8000/play/a0j4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/24HTVN2015-0.png/revision/latest/scale-to-width-down/600?cb=20200329000100&path-prefix=es",423 24 Horas TVN
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/C24HTVN2015.svg/revision/latest/scale-to-width-down/600?cb=20200530160716",423 24 Horas TVN
 http://45.225.95.170:8000/play/a0ga/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/CNN_Chile_2017.svg/revision/latest/scale-to-width-down/600?cb=20220409052356&path-prefix=es",424 CNN Chile
@@ -339,73 +339,73 @@ http://38.7.204.131:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVN_Chile_2020.svg/revision/latest/scale-to-width-down/200?cb=20210906211246&path-prefix=es",807 TVN HD
 http://38.7.204.131:8000/play/a003/index.m3u8
 
-#EXTINF:-1,809 MEGA HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Mega_2020.svg/revision/latest/scale-to-width-down/600?cb=20230331024750&path-prefix=es",809 MEGA HD
 http://38.7.204.131:8000/play/a004/index.m3u8
 
-#EXTINF:-1,811 CHV HD
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_02/large.5a8c6a702e9cf_LogoCHV2018Blanco1.png.46fe4fbddd7de2f13abc0d53500758bc.png",811 CHV HD
 http://38.7.204.131:8000/play/a005/index.m3u8
 
-#EXTINF:-1,813 CANAL 13 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal_13_Chile_2018.svg/revision/latest/scale-to-width-down/600?cb=20210315190928&path-prefix=es",813 CANAL 13 HD
 http://38.7.204.131:8000/play/a006/index.m3u8
 
-#EXTINF:-1,816 24 HORAS HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Canal_24_Horas_HD.png/revision/latest/scale-to-width-down/600?cb=20160309172308",816 24 HORAS HD
 http://38.7.204.131:8000/play/a007/index.m3u8
 
-#EXTINF:-1,817 CNN Chile HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/CNN_Chile_2017.svg/revision/latest/scale-to-width-down/600?cb=20220409052356&path-prefix=es",817 CNN Chile HD
 http://38.7.204.131:8000/play/a008/index.m3u8
 
-#EXTINF:-1,818 NTV HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/NTV_Chile_2021.svg/revision/latest/scale-to-width-down/600?cb=20210808044118&path-prefix=es",818 NTV HD
 http://38.7.204.131:8000/play/a00c/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_04/large.56fff49018802_DiscoveryKidsHDR.png.d6780e14c8a386fde8b6b46208c0ac64.png",820 Discovery Kids HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Discovery_Kids_HD_Latinoam%C3%A9rica_2021.png/revision/latest/scale-to-width-down/600?cb=20211117041657&path-prefix=es",820 Discovery Kids HD
 http://38.7.204.131:8000/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_80354.png",821 Disney HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Disney_Channel_2019.svg/revision/latest/scale-to-width-down/600?cb=20200126030048&path-prefix=es",821 Disney HD
 http://38.7.204.131:8000/play/a00g/index.m3u8
 
-#EXTINF:-1,822 Cartoon Network HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Cartoon_Network_HD_%282017%29.svg/revision/latest/scale-to-width-down/600?cb=20220629145216",822 Cartoon Network HD
 http://38.7.204.131:8000/play/a00d/index.m3u8
 
-#EXTINF:-1,823 Nick HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Nickelodeon_HD_2009.svg/revision/latest/scale-to-width-down/600?cb=20230228153239&path-prefix=es",823 Nick HD
 http://38.7.204.131:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_04/large.small.2560px-2015_Discovery_theater_HD_logo_svg.png.4b7469b1926aa3dc3f3c60b7ffe1ab8d.png.613422ac6e4b701c2ffed818908a8725.png",831 Discovery Theater HD
 http://38.7.204.131:8000/play/a02d/index.m3u8
 
-#EXTINF:-1,832 History Channel HD
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_02/large.History.png.4e0294aa3dc8b67314a0b7aa8fdee383.png",832 History Channel HD
 http://38.7.204.131:8000/play/a01k/index.m3u8
 
-#EXTINF:-1,833 Nat Geo HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/National_Geographic_HD.svg/revision/latest/scale-to-width-down/600?cb=20171113181251",833 Nat Geo HD
 http://38.7.204.131:8000/play/a01i/index.m3u8
 
-#EXTINF:-1,834 Discovery HD
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/small.discovery-channel-logo-1-1.png.6e51a47fb5e41654e213772620548d7a.png",834 Discovery HD
 http://38.7.204.131:8000/play/a01h/index.m3u8
 
-#EXTINF:-1,835 Love Nature HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/600?cb=20220303220459&path-prefix=es",835 Love Nature HD
 http://8.242.187.233:5800/play/a0as/index.m3u8
 
-#EXTINF:-1,837 HISTORY 2 HD
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_02/large.History2.png.d37065549355eb870830a5645ae0559e.png",837 HISTORY 2 HD
 http://38.7.204.131:8000/play/a01l/index.m3u8
 
-#EXTINF:-1,838 Animal Planet HD
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_02/large.1129293984_1200px-2018_Animal_Planet_logo.svg-copia.png.b691b46afeb2599db5e727a8bbd642a4.png",838 Animal Planet HD
 http://38.7.204.131:8000/play/a01j/index.m3u8
 
-#EXTINF:-1,839 FOOD NETWORK HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/FoodNetLogo.svg/revision/latest/scale-to-width-down/600?cb=20211221202426&path-prefix=es",839 FOOD NETWORK HD
 http://38.7.204.131:8000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.DHHHDNew.png.2f63e0d28029ab348464a8dcb44e79f7.png",840 Discovery H&H HD
 http://38.7.204.131:8000/play/a01f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/small.small.1200px-World_Discovery_HD_logo_svg.png.48c5198894eb396adc89174d896b2fd1.png.d502ee865d3d3e306c1710713b01dcb0.png",841 Discovery World HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Discovery_World_HD.svg/revision/latest/scale-to-width-down/600?cb=20201106211652&path-prefix=es",841 Discovery World HD
 http://38.7.204.131:8000/play/a02e/index.m3u8
 
-#EXTINF:-1,842 ID HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Investigation_Discovery_LA_2020_variante_rojo.png/revision/latest?cb=20200923135644&path-prefix=es",842 ID HD
 http://38.7.204.131:8000/play/a01m/index.m3u8
 
-#EXTINF:-1,843 TRUTV HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/TruTV_2020_Blue.svg/revision/latest/scale-to-width-down/600?cb=20220202215031&path-prefix=es",843 TRUTV HD
 http://45.232.211.196:1080/play/a04r
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_10/large.716240588_HOLA!TVlogo.jpg.54e6c72986daae2cbbbe7e5b482a02dd.jpg",845 HOLA TV HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/600?cb=20210308124606&path-prefix=es",845 HOLA TV HD
 http://45.232.211.195:1080/play/a04g
 
 #EXTINF:-1,849 Kanal D Drama HD
