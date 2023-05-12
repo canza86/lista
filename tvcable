@@ -96,7 +96,7 @@ http://45.225.95.170:8000/play/a0ek/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/ID-2020.svg/revision/latest/scale-to-width-down/250?cb=20200413032314",372 ID - Investigation Discovery
 http://45.225.95.170:8000/play/a0fp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canza86/images/main/600_cb%3D20220412010345%26path-prefix%3Des.png",374 E! Entertainment TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/E_screen_bug_template_2012_18_by_rabbitfilmmaker_ddmdxgi.png/revision/latest/scale-to-width-down/600?cb=20220823124406",374 E! Entertainment TV
 http://45.225.95.170:8000/play/a0hh/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Glitz_2011.svg/revision/latest/scale-to-width-down/600?cb=20220120044212&path-prefix=es",376 Glitz*
@@ -408,28 +408,28 @@ http://45.232.211.196:1080/play/a04r
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/600?cb=20210308124606&path-prefix=es",845 HOLA TV HD
 http://45.232.211.195:1080/play/a04g
 
-#EXTINF:-1,849 Kanal D Drama HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/600?cb=20230208035231&path-prefix=es",849 Kanal D Drama HD
 http://38.7.204.131:8000/play/a00p/index.m3u8
 
-#EXTINF:-1,852 E! HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/E_screen_bug_template_2012_18_by_rabbitfilmmaker_ddmdxgi.png/revision/latest/scale-to-width-down/600?cb=20220823124406",852 E! HD
 http://38.7.204.131:8000/play/a00r/index.m3u8
 
-#EXTINF:-1,855 STAR CHANNEL HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/StarChannelHDLA.png/revision/latest/scale-to-width-down/600?cb=20221117162011",855 STAR CHANNEL HD
 http://38.7.204.131:8000/play/a010/index.m3u8
 
-#EXTINF:-1,856 Sony HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/600?cb=20230305160915&path-prefix=es",856 Sony HD
 http://38.7.204.131:8000/play/a012/index.m3u8
 
-#EXTINF:-1,857 Warner Channel HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Warner_%282018%29.png/revision/latest/scale-to-width-down/600?cb=20190208204234&path-prefix=es",857 Warner Channel HD
 http://38.7.204.131:8000/play/a013/index.m3u8
 
-#EXTINF:-1,858 AXN HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/AXN_HD_osb.svg/revision/latest/scale-to-width-down/600?cb=20230119194023",858 AXN HD
 http://38.7.204.131:8000/play/a00y/index.m3u8
 
-#EXTINF:-1,859 UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Universal_TV_HD_logo.svg/revision/latest/scale-to-width-down/600?cb=20210104110158",859 UNIVERSAL CHANNEL HD
 http://38.7.204.131:8000/play/a00x/index.m3u8
 
-#EXTINF:-1,860 FX HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/FX_HD_%28Latin_America%29.svg/revision/latest/scale-to-width-down/600?cb=20180331155947",860 FX HD
 http://38.7.204.131:8000/play/a011/index.m3u8
 
 #EXTINF:-1,861 A&E HD
