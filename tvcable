@@ -432,16 +432,16 @@ http://38.7.204.131:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/FX_HD_%28Latin_America%29.svg/revision/latest/scale-to-width-down/600?cb=20180331155947",860 FX HD
 http://38.7.204.131:8000/play/a011/index.m3u8
 
-#EXTINF:-1,861 A&E HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/A_%26_E_BLEU_HD_2.png/revision/latest/scale-to-width-down/600?cb=20150308143941",861 A&E HD
 http://38.7.204.131:8000/play/a00u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/small.1734697758_Atreseries(2020)-alterno.png.cb4ba579f94f166cbc3c490de36d1909.png",862 ATRES SERIES
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Atreseries_2020_alt.svg/revision/latest/scale-to-width-down/600?cb=20200629153130",862 ATRES SERIES
 http://38.7.204.131:8000/play/a00w/index.m3u8
 
-#EXTINF:-1,863 Comedy Central HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Comedy_Central_UK_HD_2018.svg/revision/latest/scale-to-width-down/600?cb=20191223064636",863 Comedy Central HD
 http://38.7.204.131:8000/play/a02b/index.m3u8
 
-#EXTINF:-1,866 MTV HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/MTV_HD_2010_Inverted.svg/revision/latest/scale-to-width-down/600?cb=20201115183131&path-prefix=es",866 MTV HD
 http://38.7.204.131:8000/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/small.5a3bbca60bf99_TNTSeriesHD.png.ed6176450b8312e7caed8d3facddeee5.png",869 TNT Series HD
@@ -450,28 +450,28 @@ http://38.7.204.131:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/small.5a3bbbf4385f7_TNTHD.png.409167d8cdb5449ae1faf263a5ac577d.png",870 TNT HD
 http://38.7.204.131:8000/play/a01a/index.m3u8
 
-#EXTINF:-1,871 Space HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SpaceHDLA.jpg/revision/latest/scale-to-width-down/600?cb=20160719224251",871 Space HD
 http://38.7.204.131:8000/play/a015/index.m3u8
 
-#EXTINF:-1,872 Cinecanal HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/CINECANAL_HD.jpg/revision/latest/scale-to-width-down/600?cb=20220607205511",872 Cinecanal HD
 http://38.7.204.131:8000/play/a016/index.m3u8
 
-#EXTINF:-1,874 Clover HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest/scale-to-width-down/600?cb=20220608131431&path-prefix=es",874 Clover HD
 http://38.7.204.131:8000/play/a03k/index.m3u8
 
-#EXTINF:-1,876 Cinemax HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest/scale-to-width-down/600?cb=20201205114958",876 Cinemax HD
 http://38.7.204.131:8000/play/a019/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/small.DHE2019.png.a4da49fe8efaebf8ab386bbae2660b21.png",877 DHE HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/DHE2019.png/revision/latest/scale-to-width-down/600?cb=20210514013226&path-prefix=es",877 DHE HD
 http://38.7.204.131:8000/play/a020/index.m3u8
 
-#EXTINF:-1,878 Paramount HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Paramount_Network_HD.svg/revision/latest/scale-to-width-down/600?cb=20191226174701",878 Paramount HD
 http://38.7.204.131:8000/play/a017/index.m3u8
 
-#EXTINF:-1,880 Studio Universal HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Studio_Universal_HD_2016.svg/revision/latest/scale-to-width-down/600?cb=20191206182434",880 Studio Universal HD
 http://38.7.204.131:8000/play/a00z/index.m3u8
 
-#EXTINF:-1,884 ESPN HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/600?cb=20210102195101&path-prefix=es",884 ESPN HD
 http://38.7.204.131:8000/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_06/large.1321307982_ESPNExtra.png.dab30b1a6f200ecbb305435d36e06ee9.png",885 ESPN EXTRA HD
