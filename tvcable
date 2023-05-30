@@ -78,7 +78,7 @@ http://45.225.95.170:8000/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_02/large.History2.png.d37065549355eb870830a5645ae0559e.png",353 History 2
 http://45.225.95.170:8000/play/a0hg/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_02/large.History.png.4e0294aa3dc8b67314a0b7aa8fdee383.png",354 History Channel
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/1325251773_logo(11).png.2d83180927d4295b60730dbf97df5321.png",354 History Channel
 http://45.225.95.170:8000/play/a0fb/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/600?cb=20220505004132&path-prefix=es",355 Discovery H&H
@@ -195,7 +195,7 @@ http://45.225.95.170:8000/play/a0gz/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest/scale-to-width-down/600?cb=20211122020635&path-prefix=es",493 CDO Basico
 http://45.225.95.170:8000/play/a0fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large.CDO-premium.png.0210ba6bcdc800549fbfde389c7d1eef.png",494 CDO Premium
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",494 CDO Premium
 http://45.225.95.170:8000/play/a0fl/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest/scale-to-width-down/600?cb=20151012185318&path-prefix=es",495 ESPN 3
