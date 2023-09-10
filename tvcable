@@ -394,7 +394,7 @@ http://38.7.204.131:8000/play/a01l/index.m3u8
 http://177.234.247.66:8888/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/FoodNetLogo.svg/revision/latest/scale-to-width-down/600?cb=20211221202426&path-prefix=es",839 FOOD NETWORK HD
-http://38.7.204.131:8000/play/a038/index.m3u8
+http://177.234.247.66:8888/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.DHHHDNew.png.2f63e0d28029ab348464a8dcb44e79f7.png",840 Discovery H&H HD
 http://177.234.247.66:8888/play/a017/index.m3u8
@@ -409,7 +409,7 @@ http://177.53.153.21:8001/play/a0av/index.m3u8
 http://45.232.211.196:1080/play/a04r
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/600?cb=20210308124606&path-prefix=es",845 HOLA TV HD
-http://45.232.211.195:1080/play/a04g
+http://177.234.247.66:8888/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/600?cb=20230208035231&path-prefix=es",849 Kanal D Drama HD
 http://38.7.204.131:8000/play/a00p/index.m3u8
@@ -433,7 +433,7 @@ http://177.234.247.66:8888/play/a009/index.m3u8
 http://38.7.204.131:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/FX_HD_%28Latin_America%29.svg/revision/latest/scale-to-width-down/600?cb=20180331155947",860 FX HD
-http://38.7.204.131:8000/play/a011/index.m3u8
+http://177.234.247.66:8888/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/A_%26_E_BLEU_HD_2.png/revision/latest/scale-to-width-down/600?cb=20150308143941",861 A&E HD
 http://177.234.247.66:8888/play/a006/index.m3u8
@@ -490,19 +490,19 @@ http://177.234.247.66:8888/play/a00v/index.m3u8
 http://177.234.247.66:8888/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8863_7_16313.png",889 FOX SPORTS 1 HD
-http://38.7.204.131:8000/play/a01r/index.m3u8
+http://177.234.247.66:8888/play/a03a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8863_7_11394.png",891 FOX Sports 2 HD
 http://177.234.247.66:8888/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/FOXSPORTS3HDLA.png/revision/latest/scale-to-width-down/600?cb=20220805141908&path-prefix=es",892 Fox Sports 3 HD
-http://38.7.204.131:8000/play/a01t/index.m3u8
+http://177.234.247.66:8888/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/600?cb=20190620182054&path-prefix=es",893 TyC Sports
 http://38.7.204.131:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/GolTVLatam-2008.png/revision/latest/scale-to-width-down/325?cb=20200105205716&path-prefix=es",894 Gol TV
-http://38.7.204.131:8000/play/a045/index.m3u8
+http://177.234.247.66:8888/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd_blanco.png.8effa63ae6fa3bb793919341e5fc1c8d.png",896 TNT SPORTS HD
 http://38.7.204.131:8000/play/a046/index.m3u8
@@ -517,16 +517,16 @@ http://38.7.204.131:8000/play/a040/index.m3u8
 http://45.232.211.196:1080/play/a04m
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/HBO_HD_2014.svg/revision/latest/scale-to-width-down/600?cb=20200119220909&path-prefix=es",920 HBO HD
-http://38.7.204.131:8000/play/a01d/index.m3u8
+http://177.234.247.66:8888/play/a028/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/small.1079557692_HBOSUB.png.994df90604decc2917e19f476700820f.png",921 HBO 2 HD
-http://45.232.211.196:1080/play/a05q
+http://177.234.247.66:8888/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_03/small.hbo_fam_dark_2021.png.02f3c24d4dbb10f72c617c7b46ab1872.png",922 HBO FAMILY HD
-http://38.7.204.131:8000/play/a01c/index.m3u8
+http://177.234.247.66:8888/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/small.large.1312324970_HBOPOP(variantenaranja).png.347982efb47aede5dcf1812e773de650.png.e45a2f602482f26f0262eea6f84a66b7.png",923 HBO POP
-http://45.225.95.170:8000/play/a0js/index.m3u8
+http://177.234.247.66:8888/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/small.Wz3WemY.png.a264f78894f83f7c88b69c15cb570dde.png",924 HBO XTREME HD
-http://38.7.204.131:8000/play/a01g/index.m3u8
+http://177.234.247.66:8888/play/a03d/index.m3u8
