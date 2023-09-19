@@ -121,7 +121,7 @@ http://177.234.247.66:8888/play/a05w/index.m3u8
 http://181.224.161.138:1010/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/C24HTVN2015.svg/revision/latest/scale-to-width-down/600?cb=20200530160716",423 24 Horas TVN
-http://200.114.68.133:8000/play/a03t/index.m3u8
+http://45.4.3.75:8005/play/a06f
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/CNN_Chile_2017.svg/revision/latest/scale-to-width-down/600?cb=20220409052356&path-prefix=es",424 CNN Chile
 http://45.4.3.75:8005/play/a081
