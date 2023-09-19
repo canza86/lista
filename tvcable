@@ -444,7 +444,7 @@ http://177.234.247.66:8888/play/a00x/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Comedy_Central_UK_HD_2018.svg/revision/latest/scale-to-width-down/600?cb=20191223064636",863 Comedy Central HD
 http://177.234.247.66:8888/play/a00z/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/TBS_logo_2016.svg/revision/latest/scale-to-width-down/600?cb=20220323003142&path-prefix=es",864 TBS Very Funny HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/600?cb=20230621193156",864 TNT Novelas HD
 http://177.234.247.66:8888/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/MTV_HD_2010_Inverted.svg/revision/latest/scale-to-width-down/600?cb=20201115183131&path-prefix=es",866 MTV HD
