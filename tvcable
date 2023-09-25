@@ -7,7 +7,7 @@ http://190.216.162.152:8001/play/a08l
 http://45.4.3.75:8005/play/a07m
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/La_Red.svg/revision/latest/scale-to-width-down/600?cb=20220324042147",117 La Red
-http://181.224.161.138:1010/play/a09d/index.m3u8
+http://190.216.162.152:8001/play/a09w
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_11/large.1288457957_TV_(2018)Blanco.png.b7b98adb3da2f82804a11af52312643b.png",118 TV+
 http://45.4.3.75:8005/play/a061
@@ -121,7 +121,7 @@ http://177.234.247.66:8888/play/a05v/index.m3u8
 http://177.234.247.66:8888/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.small.5842ab75a6515b1e0ad75b0b.png.ce12289e829cb15cdcf30915ecbef784.png.7de2d07fd3c0d91ee7967955f1a49696.png",403 CNN International
-http://181.224.161.138:1010/play/a053/index.m3u8
+http://45.4.3.75:8005/play/a09k
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/C24HTVN2015.svg/revision/latest/scale-to-width-down/600?cb=20200530160716",423 24 Horas TVN
 http://45.4.3.75:8005/play/a06f
@@ -142,7 +142,7 @@ http://177.234.247.66:8888/play/a06c/index.m3u8
 http://177.234.247.66:8888/play/a07d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Peru_Magico_2016_%281%29.png/revision/latest/scale-to-width-down/600?cb=20210405190247&path-prefix=es",432 Peru Magico
-http://181.224.161.138:1010/play/a0a4/index.m3u8
+http://45.4.3.75:8005/play/a057
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/TVE_2008_logo_mosca.svg/revision/latest/scale-to-width-down/600?cb=20210508190928&path-prefix=es",434 TVE
 http://177.234.247.66:8888/play/a06n/index.m3u8
@@ -159,7 +159,7 @@ http://177.234.247.66:8888/play/a05y/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canza86/images/main/600_cb%3D20210624152344%26path-prefix%3Des.png",438 DW (Deutsch +)
 http://181.224.161.138:1010/play/a0ad/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_02/large.2.png.b6bcedbbca023cfd3d246f9a0f263587.png",439 EWTN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdpvy_D7-2kOlTFegJsYN1aPlRQsoHJW0UVFQbtdyx_5CryMwI",439 EWTN
 http://177.234.247.66:8888/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Cristovisi%C3%B3n_2016.png/revision/latest/scale-to-width-down/600?cb=20210503213723&path-prefix=es",446 Cristovision
@@ -331,7 +331,7 @@ http://177.234.247.66:8888/play/a06p/index.m3u8
 http://45.4.3.75:8005/play/a04t
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Canal_N_2022.svg/revision/latest/scale-to-width-down/600?cb=20220505150309",787 Canal N
-http://181.224.161.138:1010/play/a09y/index.m3u8
+http://45.4.3.75:8005/play/a04y
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/La_Red.svg/revision/latest/scale-to-width-down/600?cb=20220324042147",804 La Red HD
 http://177.234.247.66:8888/play/a00j/index.m3u8
