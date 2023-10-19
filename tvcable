@@ -25,10 +25,10 @@ http://190.216.162.152:8001/play/a079
 http://190.216.162.152:8001/play/a07a
 
 #EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2021_08/small.Zona_Latina_Alt_2021.png.a90aac089a798fb51b5cc1e61c5aaefb.png",123 Zona Latina
-http://190.216.162.152:8001/play/a07b
+http://177.234.247.66:8888/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Logoviax2023.png/revision/latest/scale-to-width-down/600?cb=20230313232405",124 Via X
-http://190.216.162.152:8001/play/a07c
+http://177.234.247.66:8888/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/13C_2018.svg/revision/latest/scale-to-width-down/600?cb=20230122134738&path-prefix=es",125 13 C
 http://190.216.162.152:8001/play/a09x
@@ -55,10 +55,10 @@ http://190.216.162.152:8001/play/a06o
 http://190.216.162.152:8001/play/a08b
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/TeenNick_2019.svg/revision/latest/scale-to-width-down/600?cb=20210530142554&path-prefix=es",307 Teen Nick
-http://190.216.162.152:8001/play/a09i
+http://177.234.247.66:8888/play/a06g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/600?cb=20210617173806&path-prefix=es",308 Disney Junior
-http://190.216.162.152:8001/play/a09z
+http://177.234.247.66:8888/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Baby_TV_2012.png/revision/latest/scale-to-width-down/600?cb=20180823145543&path-prefix=es",309 Baby TV
 http://177.234.247.66:8888/play/a05q/index.m3u8
@@ -196,7 +196,7 @@ http://177.234.247.66:8888/play/a07e/index.m3u8
 http://190.216.162.152:8001/play/a08d
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest/scale-to-width-down/600?cb=20211122020635&path-prefix=es",493 CDO Basico
-http://190.216.162.152:8001/play/a0a6
+http://177.234.247.66:8888/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",494 CDO Premium
 http://190.216.162.152:8001/play/a0a7
