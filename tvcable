@@ -7,10 +7,10 @@ http://190.216.162.152:8001/play/a08l
 http://152.230.126.5:5045/play/a0ns
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/La_Red.svg/revision/latest/scale-to-width-down/600?cb=20220324042147",117 La Red
-http://190.216.162.152:8001/play/a09w
+http://152.230.126.5:5045/play/a0rz
 
 #EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2018_11/small.1288457957_TV_(2018)Blanco.png.a3ed4b5f99adebe9ff869edb65bd4056.png",118 TV+
-http://190.216.162.152:8001/play/a076
+http://152.230.126.5:5045/play/a0rs
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVN_Chile_2020.svg/revision/latest/scale-to-width-down/200?cb=20210906211246&path-prefix=es",119 TVN
 http://190.216.162.152:8001/play/a077
