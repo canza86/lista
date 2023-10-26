@@ -31,7 +31,7 @@ http://177.234.247.66:8888/play/a06v/index.m3u8
 http://177.234.247.66:8888/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/13C_2018.svg/revision/latest/scale-to-width-down/600?cb=20230122134738&path-prefix=es",125 13 C
-http://190.216.162.152:8001/play/a09x
+http://190.211.250.148:8000/play/a04w
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/REC_2018.png/revision/latest/scale-to-width-down/600?cb=20191219204705&path-prefix=es",126 REC TV
 http://200.24.206.132:8000/play/a0dl/index.m3u8
@@ -199,7 +199,7 @@ http://200.24.206.132:8000/play/a0e1/index.m3u8
 http://177.234.247.66:8888/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",494 CDO Premium
-http://190.216.162.152:8001/play/a0a7
+http://190.211.250.148:8000/play/a05w
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest/scale-to-width-down/600?cb=20151012185318&path-prefix=es",495 ESPN 3
 http://200.24.206.132:8000/play/a09p/index.m3u8
