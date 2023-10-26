@@ -28,7 +28,7 @@ http://200.24.206.132:8000/play/a0b5/index.m3u8
 http://200.24.206.132:8000/play/a0b6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Logoviax2023.png/revision/latest/scale-to-width-down/600?cb=20230313232405",124 Via X
-http://177.234.247.66:8888/play/a06w/index.m3u8
+http://190.216.162.152:8001/play/a07c
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/13C_2018.svg/revision/latest/scale-to-width-down/600?cb=20230122134738&path-prefix=es",125 13 C
 http://190.211.250.148:8000/play/a04w
@@ -169,7 +169,7 @@ http://177.234.247.66:8888/play/a07q/index.m3u8
 http://177.234.247.66:8888/play/a05l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Logoteletrak2008.png/revision/latest/scale-to-width-down/600?cb=20190903233759&path-prefix=es",477 Teletrak
-http://177.234.247.66:8888/play/a070/index.m3u8
+http://190.216.162.152:8001/play/a07o
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/FOXSports3LA.png/revision/latest/scale-to-width-down/600?cb=20230305145044&path-prefix=es",479 Fox Sports 3
 http://200.24.206.132:8000/play/a0ce/index.m3u8
@@ -196,7 +196,7 @@ http://177.234.247.66:8888/play/a07e/index.m3u8
 http://200.24.206.132:8000/play/a0e1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest/scale-to-width-down/600?cb=20211122020635&path-prefix=es",493 CDO Basico
-http://177.234.247.66:8888/play/a06q/index.m3u8
+http://190.216.162.152:8001/play/a0a6
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",494 CDO Premium
 http://190.211.250.148:8000/play/a05w
