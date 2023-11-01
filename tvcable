@@ -172,7 +172,7 @@ http://190.217.117.194:8000/play/a0gv/index.m3u8
 http://190.217.117.194:8000/play/a0ei/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/FOXSports3LA.png/revision/latest/scale-to-width-down/600?cb=20230305145044&path-prefix=es",479 Fox Sports 3
-http://190.217.117.194:8000/play/a09d/index.m3u8
+http://200.24.206.132:8000/play/a0ce/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/600?cb=20210102195101&path-prefix=es",480 ESPN
 http://200.24.206.132:8000/play/a07b/index.m3u8
@@ -193,7 +193,7 @@ http://190.211.250.148:8000/play/a03w
 http://177.234.247.66:8888/play/a07e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest/scale-to-width-down/600?cb=20230305144028&path-prefix=es",490 Fox Sports 2
-http://190.217.117.194:8000/play/a0du/index.m3u8
+http://200.24.206.132:8000/play/a0e1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest/scale-to-width-down/600?cb=20211122020635&path-prefix=es",493 CDO Basico
 http://181.226.236.191:8000/play/a08b/index.m3u8
