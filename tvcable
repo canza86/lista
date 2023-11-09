@@ -82,7 +82,7 @@ http://200.24.206.132:8000/play/a09w/index.m3u8
 http://177.93.45.155:6143/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2022_03/1325251773_logo(11).png.2d83180927d4295b60730dbf97df5321.png",354 History Channel
-http://200.24.206.132:8000/play/a09x/index.m3u8
+http://152.230.126.5:5045/play/a0rv
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/600?cb=20220505004132&path-prefix=es",355 Discovery H&H
 http://200.24.206.132:8000/play/a08v/index.m3u8
@@ -100,7 +100,7 @@ http://200.24.206.132:8000/play/a076/index.m3u8
 http://200.24.206.132:8000/play/a08q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/E_screen_bug_template_2012_18_by_rabbitfilmmaker_ddmdxgi.png/revision/latest/scale-to-width-down/600?cb=20220823124406",374 E! Entertainment TV
-http://177.93.45.155:6143/play/a033/index.m3u8
+http://181.226.236.191:8000/play/a05b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Glitz_2011.svg/revision/latest/scale-to-width-down/600?cb=20220120044212&path-prefix=es",376 Glitz*
 http://200.24.206.132:8000/play/a0bc/index.m3u8
@@ -115,13 +115,13 @@ http://200.24.206.132:8000/play/a0c4/index.m3u8
 http://200.24.206.132:8000/play/a0d2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2022_12/small.small.1072745107_Logotipo_de_CNN_en_Espaol_(2010-2015).png.6f4123ff02ffa0fdfdb2375085c3cec3.png.60f4f5a9124637f5db7ab704a5803c62.png",401 CNN Espanol
-http://190.217.117.194:8000/play/a099/index.m3u8
+http://152.230.126.5:5045/play/a0sv
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/BBC_News_2022_%28Final%2C_En_Caja%29.svg/revision/latest/scale-to-width-down/600?cb=20220430201436&path-prefix=es",402 BBC World
 http://190.217.117.194:8000/play/a09a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2022_12/small.small.5842ab75a6515b1e0ad75b0b.png.ce12289e829cb15cdcf30915ecbef784.png.b9e254c3085795878be00136f37555f4.png",403 CNN International
-http://190.217.117.194:8000/play/a09b/index.m3u8
+http://152.230.126.5:5045/play/a0to
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/C24HTVN2015.svg/revision/latest/scale-to-width-down/600?cb=20200530160716",423 24 Horas TVN
 http://190.217.117.194:8000/play/a0ef/index.m3u8
