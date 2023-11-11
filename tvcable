@@ -175,7 +175,7 @@ http://181.226.236.191:8000/play/a080/index.m3u8
 http://200.24.206.132:8000/play/a0ce/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/600?cb=20210102195101&path-prefix=es",480 ESPN
-http://200.24.206.132:8000/play/a07b/index.m3u8
+http://190.216.162.152:8001/play/a01h
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/600?cb=20200105155601&path-prefix=es",481 ESPN2
 http://200.24.206.132:8000/play/a0bk/index.m3u8
