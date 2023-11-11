@@ -31,7 +31,7 @@ http://200.24.206.132:8000/play/a0b6/index.m3u8
 http://181.226.236.191:8000/play/a07x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/13C_2018.svg/revision/latest/scale-to-width-down/600?cb=20230122134738&path-prefix=es",125 13 C
-http://190.211.250.148:8000/play/a04w
+http://181.226.236.191:8000/play/a087/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/REC_2018.png/revision/latest/scale-to-width-down/600?cb=20191219204705&path-prefix=es",126 REC TV
 http://200.24.206.132:8000/play/a0dl/index.m3u8
@@ -124,16 +124,16 @@ http://190.217.117.194:8000/play/a09a/index.m3u8
 http://152.230.126.5:5045/play/a0to
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/C24HTVN2015.svg/revision/latest/scale-to-width-down/600?cb=20200530160716",423 24 Horas TVN
-http://190.217.117.194:8000/play/a0ef/index.m3u8
+http://190.216.162.152:8001/play/a07k
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/CNN_Chile_2017.svg/revision/latest/scale-to-width-down/600?cb=20220409052356&path-prefix=es",424 CNN Chile
-http://152.230.126.5:5045/play/a0i1
+http://45.232.210.1:8062/play/a09j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/TV_Senado_Chile_2022.svg/revision/latest/scale-to-width-down/600?cb=20230210131544&path-prefix=es",425 TV Senado
-http://45.4.3.75:8005/play/a047
+http://181.226.236.191:8000/play/a089/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/C%C3%A1mara_de_Diputadas_y_Diputados_de_Chile_2020.svg/revision/latest/scale-to-width-down/600?cb=20210617042908&path-prefix=es",426 TV Diputados
-http://190.216.162.152:8001/play/a0a4
+http://181.226.236.191:8000/play/a08a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/MP2017.png/revision/latest/scale-to-width-down/600?cb=20200122220848&path-prefix=es",430 Movistar Plus
 http://200.24.206.132:8000/play/a06z/index.m3u8
@@ -169,7 +169,7 @@ http://177.234.247.66:8888/play/a07q/index.m3u8
 http://190.217.117.194:8000/play/a0gv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Logoteletrak2008.png/revision/latest/scale-to-width-down/600?cb=20190903233759&path-prefix=es",477 Teletrak
-http://190.217.117.194:8000/play/a0ei/index.m3u8
+http://181.226.236.191:8000/play/a080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/FOXSports3LA.png/revision/latest/scale-to-width-down/600?cb=20230305145044&path-prefix=es",479 Fox Sports 3
 http://200.24.206.132:8000/play/a0ce/index.m3u8
