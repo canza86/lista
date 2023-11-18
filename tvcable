@@ -199,7 +199,7 @@ http://200.24.206.132:8000/play/a0e1/index.m3u8
 http://190.216.162.152:8001/play/a0a6
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",494 CDO Premium
-http://190.216.162.152:8001/play/a0a7
+http://190.211.250.148:8000/play/a05w
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest/scale-to-width-down/600?cb=20151012185318&path-prefix=es",495 ESPN 3
 http://200.24.206.132:8000/play/a09p/index.m3u8
