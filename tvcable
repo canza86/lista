@@ -79,7 +79,7 @@ http://200.24.206.132:8000/play/a0eo/index.m3u8
 http://200.24.206.132:8000/play/a09w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/monthly_2022_02/large.History2_logo_(2022)_svg.png.2239fba7c0bb2f8e15a7c46f331975c3.png",353 History 2
-http://177.93.45.155:6143/play/a036/index.m3u8
+http://45.169.163.85:8000/play/a01e
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/monthly_2022_03/1325251773_logo(11).png.2d83180927d4295b60730dbf97df5321.png",354 History Channel
 http://177.53.155.236:8000/play/a0a0/index.m3u8
@@ -145,7 +145,7 @@ http://200.24.206.132:8000/play/a0d5/index.m3u8
 http://200.24.206.132:8000/play/a07a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/TVE_2008_logo_mosca.svg/revision/latest/scale-to-width-down/600?cb=20210508190928&path-prefix=es",434 TVE
-http://190.211.250.148:8000/play/a05l
+http://177.53.155.236:8000/play/a0af/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Antena_3_Internacional_2017.png/revision/latest/scale-to-width-down/600?cb=20191204133939&path-prefix=es",435 Antena 3
 http://177.53.153.21:8001/play/a04n/index.m3u8
@@ -268,7 +268,7 @@ http://200.24.206.132:8000/play/a0bp/index.m3u8
 http://200.24.206.132:8000/play/a0e7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/monthly_2022_12/small.HBO-logo.png.23245df43e9b8822aa289a6ab73c3235.png",629 HBO SD
-http://45.4.3.75:8005/play/a089
+http://45.169.163.85:8000/play/a02g
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/monthly_2021_05/small_HBO.png.088d480fb556e850086b4af63bb3c42f.png",630 HBO
 http://200.24.206.132:8000/play/a07f/index.m3u8
