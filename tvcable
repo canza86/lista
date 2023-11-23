@@ -100,7 +100,7 @@ http://200.24.206.132:8000/play/a076/index.m3u8
 http://200.24.206.132:8000/play/a08q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/E_screen_bug_template_2012_18_by_rabbitfilmmaker_ddmdxgi.png/revision/latest/scale-to-width-down/600?cb=20220823124406",374 E! Entertainment TV
-http://181.226.236.191:8000/play/a05b/index.m3u8
+http://177.53.155.236:8000/play/a08h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Glitz_2011.svg/revision/latest/scale-to-width-down/600?cb=20220120044212&path-prefix=es",376 Glitz*
 http://200.24.206.132:8000/play/a0bc/index.m3u8
