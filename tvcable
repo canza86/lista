@@ -118,7 +118,7 @@ http://200.24.206.132:8000/play/a0d2/index.m3u8
 http://177.53.155.236:8000/play/a0aj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/BBC_News_2022_%28Final%2C_En_Caja%29.svg/revision/latest/scale-to-width-down/600?cb=20220430201436&path-prefix=es",402 BBC World
-http://190.217.117.194:8000/play/a09a/index.m3u8
+http://177.234.247.66:8888/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/monthly_2022_12/small.small.5842ab75a6515b1e0ad75b0b.png.ce12289e829cb15cdcf30915ecbef784.png.b9e254c3085795878be00136f37555f4.png",403 CNN International
 http://152.230.126.5:5045/play/a0to
@@ -154,7 +154,7 @@ http://177.53.153.21:8001/play/a04n/index.m3u8
 http://200.24.206.132:8000/play/a0c8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Rai_Italia_2017.png/revision/latest/scale-to-width-down/600?cb=20200805145329&path-prefix=es",437 RAI
-http://190.217.117.194:8000/play/a0af/index.m3u8
+http://177.234.247.66:8888/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canza86/images/main/600_cb%3D20210624152344%26path-prefix%3Des.png",438 DW (Deutsch +)
 http://190.217.117.194:8000/play/a0ag/index.m3u8
@@ -166,10 +166,10 @@ http://177.234.247.66:8888/play/a06o/index.m3u8
 http://177.234.247.66:8888/play/a07q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Telesur_%282017%29.png/revision/latest/scale-to-width-down/600?cb=20220903012506&path-prefix=es",451 Telesur
-http://190.217.117.194:8000/play/a0gv/index.m3u8
+http://177.234.247.66:8888/play/a05l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Logoteletrak2008.png/revision/latest/scale-to-width-down/600?cb=20190903233759&path-prefix=es",477 Teletrak
-http://190.216.162.152:8001/play/a07o
+http://177.234.247.66:8888/play/a070/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/FOXSports3LA.png/revision/latest/scale-to-width-down/600?cb=20230305145044&path-prefix=es",479 Fox Sports 3
 http://200.24.206.132:8000/play/a0ce/index.m3u8
@@ -196,7 +196,7 @@ http://177.234.247.66:8888/play/a07e/index.m3u8
 http://200.24.206.132:8000/play/a0e1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest/scale-to-width-down/600?cb=20211122020635&path-prefix=es",493 CDO Basico
-http://190.216.162.152:8001/play/a0a6
+http://177.234.247.66:8888/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",494 CDO Premium
 http://190.211.250.148:8000/play/a05w
