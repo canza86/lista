@@ -166,7 +166,7 @@ http://177.234.247.66:8888/play/a06o/index.m3u8
 http://177.234.247.66:8888/play/a07q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Telesur_%282017%29.png/revision/latest/scale-to-width-down/600?cb=20220903012506&path-prefix=es",451 Telesur
-http://177.234.247.66:8888/play/a05l/index.m3u8
+http://190.90.154.73:8080/play/a087/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Logoteletrak2008.png/revision/latest/scale-to-width-down/600?cb=20190903233759&path-prefix=es",477 Teletrak
 http://177.234.247.66:8888/play/a070/index.m3u8
@@ -295,7 +295,7 @@ http://200.24.206.132:8000/play/a0de/index.m3u8
 http://200.24.206.132:8000/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/600?cb=20200107001607&path-prefix=es",702 Tooncast
-http://200.24.206.132:8000/play/a0c1/index.m3u8
+http://190.90.154.73:8080/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png/revision/latest/scale-to-width-down/600?cb=20190925153556&path-prefix=es",711 Discovery Science
 http://200.24.206.132:8000/play/a0e0/index.m3u8
