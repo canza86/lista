@@ -4,7 +4,7 @@
 http://200.24.206.132:8000/play/a0ec/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Telecanal_2011.svg/revision/latest/scale-to-width-down/600?cb=20220613194854&path-prefix=es",116 Telecanal
-http://152.230.126.5:5045/play/a0ns
+http://181.78.208.254:8010/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/La_Red.svg/revision/latest/scale-to-width-down/600?cb=20220324042147",117 La Red
 http://45.238.21.84:8000/play/a0e1
@@ -220,7 +220,7 @@ http://45.238.21.84:8000/play/a0ea
 http://45.238.21.84:8000/play/a0gy
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_12/small.279164273_Sinttulo-2.png.f8efe6e8af25fa164fe3c4eca079ea0c.png",508 Comedy Central
-http://45.238.21.84:8000/play/a06r
+http://181.129.173.98:8200/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Universal_TV_logo.svg/revision/latest/scale-to-width-down/600?cb=20210103235912",510 Universal
 http://45.238.21.84:8000/play/a0ge
@@ -253,7 +253,7 @@ http://45.238.21.84:8000/play/a063
 http://45.238.21.84:8000/play/a0gf
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest/scale-to-width-down/600?cb=20220608131431&path-prefix=es",606 Clover
-http://190.90.154.73:8080/play/a06k/index.m3u8
+http://181.129.173.98:8200/play/a07h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/FX_2018_LA_Screen_Bug.svg/revision/latest/scale-to-width-down/600?cb=20201218150948",607 FX
 http://190.90.154.73:8080/play/a01o/index.m3u8
@@ -310,7 +310,7 @@ http://45.238.21.84:8000/play/a0ef
 http://190.90.154.73:8080/play/a07v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Logoc13arginternacional2017.png/revision/latest/scale-to-width-down/600?cb=20170816113401",732 El Trece
-http://200.24.206.132:8000/play/a0bg/index.m3u8
+http://45.181.122.218:28886/play/a02l
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Enlace_TBN_2016.png/revision/latest/scale-to-width-down/600?cb=20210330233721&path-prefix=es",733 Enlace
 http://45.238.21.84:8000/play/a0ft
