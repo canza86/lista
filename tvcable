@@ -25,10 +25,10 @@ http://45.238.21.84:8000/play/a0fe
 http://45.238.21.84:8000/play/a0fb
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/small.Zona_Latina_Alt_2021.png.4d394b647b1e2304a08853820f0cc3a8.png",123 Zona Latina
-http://45.238.21.84:8000/play/a0ff
+http://181.78.208.254:8010/play/a07n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Logoviax2023.png/revision/latest/scale-to-width-down/600?cb=20230313232405",124 Via X
-http://45.238.21.84:8000/play/a0fg
+http://181.78.208.254:8010/play/a07o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/13C_2018.svg/revision/latest/scale-to-width-down/600?cb=20230122134738&path-prefix=es",125 13 C
 http://45.238.21.84:8000/play/a0e2
@@ -127,7 +127,7 @@ http://190.90.154.73:8080/play/a08i/index.m3u8
 http://45.238.21.84:8000/play/a0fa
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/CNN_Chile_2017.svg/revision/latest/scale-to-width-down/600?cb=20220409052356&path-prefix=es",424 CNN Chile
-http://45.238.21.84:8000/play/a0fk
+http://45.160.191.34:8000/play/a04l
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/TV_Senado_Chile_2022.svg/revision/latest/scale-to-width-down/600?cb=20230210131544&path-prefix=es",425 TV Senado
 http://45.238.21.84:8000/play/a0e4
