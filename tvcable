@@ -34,7 +34,7 @@ http://181.78.208.254:8010/play/a07o/index.m3u8
 http://181.78.208.254:8010/play/a06t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/REC_2018.png/revision/latest/scale-to-width-down/600?cb=20191219204705&path-prefix=es",126 REC TV
-http://190.90.154.73:8080/play/a05l/index.m3u8
+http://45.181.122.218:28886/play/a03g
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/NTV_Chile_2021.svg/revision/latest/scale-to-width-down/600?cb=20210808044118&path-prefix=es",218 NTV
 http://45.232.210.1:8062/play/a0cl/index.m3u8
