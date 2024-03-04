@@ -34,7 +34,7 @@ http://181.78.208.254:8010/play/a07o/index.m3u8
 http://181.78.208.254:8010/play/a06t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/REC_2018.png/revision/latest/scale-to-width-down/600?cb=20191219204705&path-prefix=es",126 REC TV
-http://45.181.122.218:28886/play/a03g
+http://186.103.142.222:8000/play/a0b9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/NTV_Chile_2021.svg/revision/latest/scale-to-width-down/600?cb=20210808044118&path-prefix=es",218 NTV
 http://45.232.210.1:8062/play/a0cl/index.m3u8
@@ -64,7 +64,7 @@ http://181.78.208.254:8010/play/a06v/index.m3u8
 http://181.78.208.254:8010/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/ETC.svg/revision/latest/scale-to-width-down/600?cb=20230122205947&path-prefix=es",310 ETC TV
-http://45.238.21.84:8000/play/a0bm
+http://186.103.142.222:8000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Lolly_Kids_TV_2018.svg/revision/latest/scale-to-width-down/600?cb=20220608234257&path-prefix=es",313 Lolly Kids
 http://190.90.154.73:8080/play/a00i/index.m3u8
