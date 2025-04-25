@@ -31,7 +31,7 @@ http://177.234.230.206:8011/play/a0fl/index.m3u8
 http://177.234.230.206:8011/play/a0fm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/13C_2018.svg/revision/latest/scale-to-width-down/600?cb=20230122134738&path-prefix=es",125 13 C
-http://177.234.230.206:8011/play/a0m0/index.m3u8
+http://177.234.230.206:8011/play/a0gu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/REC_2018.png/revision/latest/scale-to-width-down/600?cb=20191219204705&path-prefix=es",126 REC TV
 http://177.234.230.206:8011/play/a0fn/index.m3u8
@@ -198,7 +198,7 @@ http://177.234.230.206:8011/play/a0o6/index.m3u8
 #EXTINF:-1 tvg-loge="https://static.wikia.nocookie.net/logopedia/images/2/2f/TNT_Sports_Premium_24.svg/revision/latest?cb=20240531230556",486 TNT Sports Premium
 http://190.211.163.19:9999/play/a09j
 
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/ESPN_7.svg/revision/latest?cb=20240210020543",490 ESPN 7
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/ESPN_7.svg/revision/latest?cb=20240210020543",490 ESPN 7
 http://177.234.230.206:8011/play/a0k2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest/scale-to-width-down/600?cb=20211122020635&path-prefix=es",493 CDO Basico
@@ -271,34 +271,34 @@ http://190.211.163.19:9999/play/a0er
 http://177.234.230.206:8011/play/a0n3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/small.HBO-logo.png.651a8880d5a3f257a08a4fb5c273cde5.png",629 HBO SD
-http://45.238.21.84:8000/play/a0fj
+http://190.211.163.19:9999/play/a0bw
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/small_HBO.png.8dd8edd42df642d300f4b9bbd8a8a576.png",630 HBO
-http://200.24.206.132:8000/play/a07f/index.m3u8
+http://177.234.230.206:8011/play/a0jh/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/HBO_Family_2021.svg/revision/latest/scale-to-width-down/600?cb=20230305154012&path-prefix=es",631 HBO Family
-http://45.238.21.84:8000/play/a0g5
+http://177.234.230.206:8011/play/a0hj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/small.Wz3WemY.png.490c352d6cbce066b778ecb7180477c6.png",632 HBO XTREME
-http://45.238.21.84:8000/play/a0g7
+http://177.234.230.206:8011/play/a0hk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_04/1.png.0023d21826401e1887f013aedca3274d.png",633 HBO Plus
-http://45.238.21.84:8000/play/a0g6
+http://177.234.230.206:8011/play/a0hl/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/small.HBO2_logo.png.db8753045bdf3a6da2ec4f572b5c2301.png",634 HBO2
-http://45.238.21.84:8000/play/a0gd
+http://177.234.230.206:8011/play/a0ew/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/small.small.1813311820_HBOSignature.png.a53458ca72d8c5c2e475190fdb30cbd2.png.1d8d2081bc00621cd7dcaec6f2169fdc.png",635 HBO Signature
-http://200.24.206.132:8000/play/a0cn/index.m3u8
+http://177.234.230.206:8011/play/a0lp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/small.small.1200px-HBO_Mundi_svg.png.ef2593b818107c6a7eca3d235e0039ff.png.6b8602247042a8dcd74c45bc815f7f55.png",638 HBO MUNDI
-http://45.238.21.84:8000/play/a0ei
+http://177.234.230.206:8011/play/a0lq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Nick_Jr._2009.svg/revision/latest/scale-to-width-down/600?cb=20230318213558&path-prefix=es",700 Nick Jr
-http://190.90.154.73:8080/play/a04d/index.m3u8
+http://190.211.163.19:9999/play/a0fz
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/600?cb=20200107001607&path-prefix=es",702 Tooncast
-http://45.238.21.84:8000/play/a0f1
+http://177.234.230.206:8011/play/a0ft/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png/revision/latest/scale-to-width-down/600?cb=20190925153556&path-prefix=es",711 Discovery Science
 http://181.78.208.254:8010/play/a08k/index.m3u8
