@@ -93,7 +93,7 @@ http://177.234.230.206:8011/play/a0c7/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/TLC_2021.svg/revision/latest/scale-to-width-down/600?cb=20220706233159&path-prefix=es",356 TLC
 http://177.234.230.206:8011/play/a0i0/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/600?cb=20220303220459&path-prefix=es",361 Love Nature
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Love_Nature_%282025%29.svg/revision/latest/scale-to-width-down/1000?cb=20250206095703",361 Love Nature
 http://177.234.230.206:8011/play/a0bj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/600?cb=20230208035231&path-prefix=es",370 Kanal D Drama
@@ -108,13 +108,13 @@ http://177.234.230.206:8011/play/a0fu/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Telemundo_Internacional_Logo_%282018-presente%29.png/revision/latest/scale-to-width-down/600?cb=20181101133212&path-prefix=es",381 Telemundo
 http://177.234.230.206:8011/play/a0i3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest/scale-to-width-down/600?cb=20211211213253&path-prefix=es",387 MTV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest/scale-to-width-down/600?cb=20230607080834",387 MTV
 http://177.234.230.206:8011/play/a0h3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/HTV_2009.svg/revision/latest/scale-to-width-down/600?cb=20151205150744",389 HTV
 http://177.234.230.206:8011/play/a0ic/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/NickMusic_Splat.svg/revision/latest?cb=20240129184250",390 Nick Music
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/NickMusic_%28Green%29.svg/revision/latest/scale-to-width-down/600?cb=20201114203734&path-prefix=es",390 Nick Music
 http://177.234.230.206:8011/play/a0fq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/small.1072745107_Logotipo_de_CNN_en_Espaol_(2010-2015).png.93390be2847b0932c1acba4ad5e41ae6.png",401 CNN Espanol
