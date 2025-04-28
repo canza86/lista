@@ -75,16 +75,16 @@ http://177.234.230.206:8011/play/a0eq/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/800?cb=20210825085349",350 Animal Planet
 http://177.234.230.206:8011/play/a0gw/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Discovery_OSB.svg/revision/latest/scale-to-width-down/600?cb=20210804150952",351 Discovery Channel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Discovery_white_2019.svg/revision/latest/scale-to-width-down/600?cb=20210804150956",351 Discovery Channel
 http://177.234.230.206:8011/play/a0ec/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/small.small.733000_1439291548.png.d3708eaa9086e132f08f8f20c4921dc9.png.93d6dccab330a92d8796b32cb35cdd76.png",352 National Geographic
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/National_Geographic_osb.svg/revision/latest/scale-to-width-down/600?cb=20230818152014",352 National Geographic
 http://177.234.230.206:8011/play/a0gx/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_02/small.History2_logo_(2022)_svg.png.896a3dc92649eebd165666e98f75a029.png",353 History 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/History_2_2022.png/revision/latest/scale-to-width-down/600?cb=20220130002026&path-prefix=es",353 History 2
 http://177.234.230.206:8011/play/a0f8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/1325251773_logo(11).png.2d83180927d4295b60730dbf97df5321.png",354 History Channel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/History_2021_fondo.png/revision/latest/scale-to-width-down/600?cb=20211210123918&path-prefix=es",354 History Channel
 http://177.234.230.206:8011/play/a0gy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/600?cb=20220505004132&path-prefix=es",355 Discovery H&H
