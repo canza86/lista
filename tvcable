@@ -117,13 +117,13 @@ http://177.234.230.206:8011/play/a0ic/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/NickMusic_%28Green%29.svg/revision/latest/scale-to-width-down/600?cb=20201114203734&path-prefix=es",390 Nick Music
 http://177.234.230.206:8011/play/a0fq/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/small.1072745107_Logotipo_de_CNN_en_Espaol_(2010-2015).png.93390be2847b0932c1acba4ad5e41ae6.png",401 CNN Espanol
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/CNN_en_Espa%C3%B1ol_2010.svg/revision/latest/scale-to-width-down/600?cb=20220409051048&path-prefix=es",401 CNN Espanol
 http://177.234.230.206:8011/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/BBC_News_2022_%28Final%2C_En_Caja%29.svg/revision/latest/scale-to-width-down/600?cb=20220430201436&path-prefix=es",402 BBC World
 http://177.234.230.206:8011/play/a0lj/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/small.small.5842ab75a6515b1e0ad75b0b.png.ce12289e829cb15cdcf30915ecbef784.png.142eef6656a5119db46e513ad189fe7c.png",403 CNN International
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/600?cb=20250315005934",403 CNN International
 http://177.234.230.206:8011/play/a0mk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Canal_24_Horas_TVN_2023.svg/revision/latest/scale-to-width-down/170?cb=20231229195117",423 24 Horas TVN
@@ -138,10 +138,10 @@ http://177.234.230.206:8011/play/a0lu/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/C%C3%A1mara_de_Diputadas_y_Diputados_de_Chile_2020.svg/revision/latest/scale-to-width-down/600?cb=20210617042908&path-prefix=es",426 TV Diputados
 http://177.234.230.206:8011/play/a0lv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/UCLLatam.png/revision/latest?cb=20200602170342",429 UCL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/UCLLatam.png/revision/latest/scale-to-width-down/600?cb=20210308024753&path-prefix=es",429 UCL
 http://45.71.37.194:8010/play/a0eu/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/MP2017.png/revision/latest/scale-to-width-down/600?cb=20200122220848&path-prefix=es",430 Movistar Plus
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Plus_TV_Life.svg/revision/latest/scale-to-width-down/1000?cb=20241213033616&path-prefix=es",430 PLUS TV LIFE
 http://177.234.230.206:8011/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Telefe_Internacional_%282018%29.png/revision/latest/scale-to-width-down/600?cb=20190818011106&path-prefix=es",431 Telefe
