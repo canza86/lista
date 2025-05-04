@@ -81,7 +81,7 @@ http://177.234.230.206:8011/play/a0ec/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/National_Geographic_osb.svg/revision/latest/scale-to-width-down/600?cb=20230818152014",352 National Geographic
 http://177.234.230.206:8011/play/a0gx/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/History_2_2022.png/revision/latest/scale-to-width-down/600?cb=20220130002026&path-prefix=es",353 History 2
+#EXTINF:-1 tvg-logo="https://historytv.pl/wp-content/themes/historytv/images/History2-logo.png",353 History 2
 http://177.234.230.206:8011/play/a0f8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/History_white_text_2021.png/revision/latest/scale-to-width-down/600?cb=20220831003835&path-prefix=es",354 History Channel
