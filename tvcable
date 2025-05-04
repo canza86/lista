@@ -285,10 +285,10 @@ http://177.234.230.206:8011/play/a0hk/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/HBO%2B_2019_latinoamerica_blanco.png/revision/latest/scale-to-width-down/600?cb=20230908212111&path-prefix=es",633 HBO Plus
 http://177.234.230.206:8011/play/a0hl/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/small.HBO2_logo.png.db8753045bdf3a6da2ec4f572b5c2301.png",634 HBO2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/HBO2_logo.svg/revision/latest/scale-to-width-down/600?cb=20220319012459",634 HBO2
 http://177.234.230.206:8011/play/a0ew/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/small.small.1813311820_HBOSignature.png.a53458ca72d8c5c2e475190fdb30cbd2.png.1d8d2081bc00621cd7dcaec6f2169fdc.png",635 HBO Signature
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/HBO_Signature_2000.svg/revision/latest/scale-to-width-down/600?cb=20100323081748",635 HBO Signature
 http://177.234.230.206:8011/play/a0lp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/small.small.1200px-HBO_Mundi_svg.png.ef2593b818107c6a7eca3d235e0039ff.png.6b8602247042a8dcd74c45bc815f7f55.png",638 HBO MUNDI
