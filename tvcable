@@ -72,16 +72,16 @@ http://45.181.122.46:8090/play/a00t
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Lolly_Kids_TV_2018.svg/revision/latest/scale-to-width-down/600?cb=20220608234257&path-prefix=es",313 Lolly Kids
 http://177.234.230.206:8011/play/a0eq/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/800?cb=20210825085349",350 Animal Planet
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2021_05/large.1200px-2018_Animal_Planet_logo_svg.png.9ca005192c0827fa40dd3369cc4238e9.png",350 Animal Planet
 http://177.234.230.206:8011/play/a0gw/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Discovery_white_2019.svg/revision/latest/scale-to-width-down/600?cb=20210804150956",351 Discovery Channel
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png",351 Discovery Channel
 http://177.234.230.206:8011/play/a0ec/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/National_Geographic_osb.svg/revision/latest/scale-to-width-down/600?cb=20230818152014",352 National Geographic
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_03/large.733000_1439291548.png.baf04515b285d67cccb90d4ba9bf87fa.png",352 National Geographic
 http://177.234.230.206:8011/play/a0gx/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://historytv.pl/wp-content/themes/historytv/images/History2-logo.png",353 History 2
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_02/large.History2_logo_(2022)_svg.png.fb8dbb0e6d6907e47a6122f8a5b2b088.png",353 History 2
 http://177.234.230.206:8011/play/a0f8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/History_white_text_2021.png/revision/latest/scale-to-width-down/600?cb=20220831003835&path-prefix=es",354 History Channel
@@ -117,13 +117,13 @@ http://177.234.230.206:8011/play/a0ic/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/NickMusic_%28Green%29.svg/revision/latest/scale-to-width-down/600?cb=20201114203734&path-prefix=es",390 Nick Music
 http://177.234.230.206:8011/play/a0fq/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/CNN_en_Espa%C3%B1ol_2010.svg/revision/latest/scale-to-width-down/600?cb=20220409051048&path-prefix=es",401 CNN Espanol
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_12/large.small.1072745107_Logotipo_de_CNN_en_Espaol_(2010-2015).png.6f4123ff02ffa0fdfdb2375085c3cec3.png.8079e51ddd73900089d5f11d167f04e9.png",401 CNN Espanol
 http://177.234.230.206:8011/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/BBC_News_2022_%28Final%2C_En_Caja%29.svg/revision/latest/scale-to-width-down/600?cb=20220430201436&path-prefix=es",402 BBC World
 http://177.234.230.206:8011/play/a0lj/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/600?cb=20250315005934",403 CNN International
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_12/large.small.5842ab75a6515b1e0ad75b0b.png.ce12289e829cb15cdcf30915ecbef784.png.c011869fedb7364089c31ef7bde12099.png",403 CNN International
 http://177.234.230.206:8011/play/a0mk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Canal_24_Horas_TVN_2023.svg/revision/latest/scale-to-width-down/170?cb=20231229195117",423 24 Horas TVN
@@ -213,7 +213,7 @@ http://190.211.163.19:9999/play/a0c6
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Warner_%282018%29.png/revision/latest/scale-to-width-down/600?cb=20190208204234&path-prefix=es",501 Warner Channel
 http://190.211.163.19:9999/play/a0bb
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/600?cb=20230106025850",502 STAR CHANNEL
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2021_05/large.StarChannelLA.png.2fffc7dcafc4373eaf40fcbf75bade94.png",502 STAR CHANNEL
 http://177.234.230.206:8011/play/a0ei/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/600?cb=20230305160915&path-prefix=es",503 Sony
@@ -225,7 +225,7 @@ http://177.234.230.206:8011/play/a0hb/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/A%26e_network-logo_blue.svg/revision/latest/scale-to-width-down/600?cb=20220815071021",506 A&E
 http://177.234.230.206:8011/play/a0iw/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Comedy_Central_2019.png/revision/latest?cb=20190304202857&path-prefix=es",508 Comedy Central
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2024_02/large.Comedy-Central-Symbol-removebg-preview.png.d75d3300d085d087750eda7f6bf1fedd.png",508 Comedy Central
 http://177.234.230.206:8011/play/a0hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Universal_TV_logo.svg/revision/latest/scale-to-width-down/600?cb=20210103235912",510 Universal
@@ -285,7 +285,7 @@ http://177.234.230.206:8011/play/a0hk/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/HBO%2B_2019_latinoamerica_blanco.png/revision/latest/scale-to-width-down/600?cb=20230908212111&path-prefix=es",633 HBO Plus
 http://177.234.230.206:8011/play/a0hl/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/HBO2_logo.svg/revision/latest/scale-to-width-down/600?cb=20220319012459",634 HBO2
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_02/large.HBO2_logo.png.f9ef6702942023a63a3162cf8acf3824.png",634 HBO2
 http://177.234.230.206:8011/play/a0ew/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/HBO_Signature_2000.svg/revision/latest/scale-to-width-down/600?cb=20100323081748",635 HBO Signature
