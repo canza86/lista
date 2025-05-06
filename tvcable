@@ -138,7 +138,7 @@ http://177.234.230.206:8011/play/a0lu/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/C%C3%A1mara_de_Diputadas_y_Diputados_de_Chile_2020.svg/revision/latest/scale-to-width-down/600?cb=20210617042908&path-prefix=es",426 TV Diputados
 http://177.234.230.206:8011/play/a0lv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/UCLLatam.png/revision/latest/scale-to-width-down/600?cb=20210308024753&path-prefix=es",429 UCL
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2020_06/logo-horizontal-white-1.png.7332c57f7683275b79e213789ef9da8b.png",429 UCL
 http://45.71.37.194:8010/play/a0eu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Plus_Life_Blanco.svg/revision/latest/scale-to-width-down/600?cb=20250425235923&path-prefix=es",430 PLUS TV LIFE
@@ -246,7 +246,7 @@ http://190.211.163.19:9999/play/a04x
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Tnt-series-latin-america.svg/revision/latest/scale-to-width-down/600?cb=20200116195222&path-prefix=es",596 TNT Series
 http://177.234.230.206:8011/play/a0fd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Studio-Universal-2016.png/revision/latest?cb=20160108191358",602 Studio Universal
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_09/large.1695387832464.png.e493f7dcb17e0663ea2cffc1621f3268.png",602 Studio Universal
 http://190.211.163.19:9999/play/a09r
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TCM_%28Latin_America%29.svg/revision/latest/scale-to-width-down/600?cb=20200823030607",603 TCM
@@ -291,10 +291,10 @@ http://177.234.230.206:8011/play/a0ew/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/HBO_Signature_2000.svg/revision/latest/scale-to-width-down/600?cb=20100323081748",635 HBO Signature
 http://177.234.230.206:8011/play/a0lp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/small.small.1200px-HBO_Mundi_svg.png.ef2593b818107c6a7eca3d235e0039ff.png.6b8602247042a8dcd74c45bc815f7f55.png",638 HBO MUNDI
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_12/small.small.1200px-HBO_Mundi_svg.png.ef2593b818107c6a7eca3d235e0039ff.png.6b8602247042a8dcd74c45bc815f7f55.png",638 HBO MUNDI
 http://177.234.230.206:8011/play/a0lq/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Nick_Jr._2009.svg/revision/latest/scale-to-width-down/600?cb=20230318213558&path-prefix=es",700 Nick Jr
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest/scale-to-width-down/1000?cb=20241015184948",700 Nick Jr
 http://190.211.163.19:9999/play/a0fz
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/600?cb=20200107001607&path-prefix=es",702 Tooncast
@@ -309,7 +309,7 @@ http://177.234.230.206:8011/play/a0ez/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Discovery_Turbo_LA_2021.svg/revision/latest/scale-to-width-down/600?cb=20210529215254&path-prefix=es",713 Discovery Turbo
 http://177.234.230.206:8011/play/a0nb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/NuestraTeleInternacional2019.png/revision/latest/scale-to-width-down/600?cb=20191225023419",731 Nuestra Tele
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/RCNNuestraTeleInternacional_2023.png/revision/latest?cb=20240424223607",731 Nuestra Tele
 http://177.234.230.206:8011/play/a0i4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Logoc13arginternacional2017.png/revision/latest/scale-to-width-down/600?cb=20170816113401",732 El Trece
