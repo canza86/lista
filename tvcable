@@ -405,8 +405,8 @@ http://177.234.230.206:8011/play/a0k6/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Investigation_Discovery_LA_2020_variante_rojo.png/revision/latest?cb=20200923135644&path-prefix=es",842 ID HD
 http://177.234.247.66:8888/play/a010/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/TruTV_2020_Blue.svg/revision/latest/scale-to-width-down/600?cb=20220202215031&path-prefix=es",843 TRUTV HD
-http://177.234.247.66:8888/play/a011/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Adult_Swim_logo_white.png/revision/latest/scale-to-width-down/150?cb=20220611233847&path-prefix=es",511 Adult Swim HD
+http://177.234.230.206:8011/play/a0lo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/600?cb=20210308124606&path-prefix=es",845 HOLA TV HD
 http://177.234.230.206:8011/play/a0h2/index.m3u8
@@ -414,35 +414,35 @@ http://177.234.230.206:8011/play/a0h2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/600?cb=20230208035231&path-prefix=es",849 Kanal D Drama HD
 http://177.234.247.66:8888/play/a029/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/E_screen_bug_template_2012_18_by_rabbitfilmmaker_ddmdxgi.png/revision/latest/scale-to-width-down/600?cb=20220823124406",852 E! HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/E%21_HD_2012.svg/revision/latest/scale-to-width-down/1000?cb=20221216014328",852 E! HD
 http://177.234.247.66:8888/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/StarChannelHDLA.png/revision/latest/scale-to-width-down/600?cb=20221117162011",855 STAR CHANNEL HD
-http://177.234.247.66:8888/play/a019/index.m3u8
+http://177.234.230.206:8011/play/a0fj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/600?cb=20230305160915&path-prefix=es",856 Sony HD
 http://177.234.247.66:8888/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Warner_%282018%29.png/revision/latest/scale-to-width-down/600?cb=20190208204234&path-prefix=es",857 Warner Channel HD
-http://177.234.247.66:8888/play/a008/index.m3u8
+http://177.234.230.206:8011/play/a00t/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/AXN_HD_osb.svg/revision/latest/scale-to-width-down/600?cb=20230119194023",858 AXN HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/AXN_HD_2015.svg/revision/latest/scale-to-width/600?cb=20191218195411",858 AXN HD
 http://177.234.247.66:8888/play/a009/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Universal_TV_HD_logo.svg/revision/latest/scale-to-width-down/600?cb=20210104110158",859 UNIVERSAL CHANNEL HD
-http://177.234.247.66:8888/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Universal_TV_HD_logo.svg/revision/latest/scale-to-width/600?cb=20210104110158",859 UNIVERSAL CHANNEL HD
+http://177.234.230.206:8011/play/a0dn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/FX_HD_%28Latin_America%29.svg/revision/latest/scale-to-width-down/600?cb=20180331155947",860 FX HD
-http://177.234.247.66:8888/play/a01h/index.m3u8
+http://177.234.230.206:8011/play/a0ds/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/A_%26_E_BLEU_HD_2.png/revision/latest/scale-to-width-down/600?cb=20150308143941",861 A&E HD
-http://177.234.247.66:8888/play/a006/index.m3u8
+http://177.234.230.206:8011/play/a0j4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Atreseries_2020_alt.svg/revision/latest/scale-to-width-down/600?cb=20200629153130",862 ATRES SERIES
 http://177.234.247.66:8888/play/a00x/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Comedy_Central_UK_HD_2018.svg/revision/latest/scale-to-width-down/600?cb=20191223064636",863 Comedy Central HD
-http://177.234.247.66:8888/play/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Comedy_Central_HD_2018.svg/revision/latest/scale-to-width-down/600?cb=20191223234423",863 Comedy Central HD
+http://177.234.230.206:8011/play/a0j5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/600?cb=20230621193156",864 TNT Novelas HD
 http://177.234.247.66:8888/play/a030/index.m3u8
