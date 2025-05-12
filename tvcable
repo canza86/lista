@@ -447,16 +447,16 @@ http://177.234.230.206:8011/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/600?cb=20230621193156",864 TNT Novelas HD
 http://177.234.247.66:8888/play/a030/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/MTV_HD_2010_Inverted.svg/revision/latest/scale-to-width-down/600?cb=20201115183131&path-prefix=es",866 MTV HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/MTVhdlogo2010-present.png/revision/latest?cb=20150803154045",866 MTV HD
 http://177.234.247.66:8888/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_12/small.5a3bbca60bf99_TNTSeriesHD.png.ed6176450b8312e7caed8d3facddeee5.png",869 TNT Series HD
 http://177.234.247.66:8888/play/a01g/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_12/small.5a3bbbf4385f7_TNTHD.png.409167d8cdb5449ae1faf263a5ac577d.png",870 TNT HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TNT_HD_2016.svg/revision/latest/scale-to-width-down/600?cb=20161129192511",870 TNT HD
 http://177.234.247.66:8888/play/a00s/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SpaceHDLA.jpg/revision/latest/scale-to-width-down/600?cb=20160719224251",871 Space HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Space_HD_LA.svg/revision/latest/scale-to-width-down/600?cb=20230902122942",871 Space HD
 http://177.234.247.66:8888/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/CINECANAL_HD.jpg/revision/latest/scale-to-width-down/600?cb=20220607205511",872 Cinecanal HD
@@ -465,7 +465,7 @@ http://177.234.247.66:8888/play/a025/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest/scale-to-width-down/600?cb=20220608131431&path-prefix=es",874 Clover HD
 http://177.234.247.66:8888/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest/scale-to-width-down/600?cb=20201205114958",876 Cinemax HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Cinemax_HD_Latin_America.svg/revision/latest/scale-to-width-down/600?cb=20210705002607",876 Cinemax HD
 http://177.234.247.66:8888/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/DHE2019.png/revision/latest/scale-to-width-down/600?cb=20210514013226&path-prefix=es",877 DHE HD
