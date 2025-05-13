@@ -480,7 +480,7 @@ http://177.234.247.66:8888/play/a02c/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/600?cb=20210102195101&path-prefix=es",884 ESPN HD
 http://177.234.247.66:8888/play/a01i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_06/small.1321307982_ESPNExtra.png.78b9ef467e73b8e60edbaf52ea1cebb7.png",885 ESPN EXTRA HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/600?cb=20211129170304&path-prefix=es",885 ESPN 4 HD
 http://177.234.247.66:8888/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/600?cb=20200105155601&path-prefix=es",886 ESPN 2 HD
@@ -489,20 +489,20 @@ http://177.234.247.66:8888/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest/scale-to-width-down/600?cb=20151012185318&path-prefix=es",887 ESPN 3 HD
 http://177.234.247.66:8888/play/a00t/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/gallery_8863_7_16313.png",889 FOX SPORTS 1 HD
-http://177.234.247.66:8888/play/a03a/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/ESPN_Premium_%28white_and_black%29_2022.png/revision/latest?cb=20220501173408&path-prefix=es",889 ESPN Premium HD
+http://177.234.230.206:8011/play/a0o6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/small.gallery_8863_7_11394.png.25cb06ab35e9ec30bccd6504b7db9690.png",891 FOX Sports 2 HD
-http://177.234.247.66:8888/play/a01d/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/ESPN_7.svg/revision/latest/scale-to-width-down/600?cb=20240210020543",891 ESPN 7HD
+http://177.234.230.206:8011/play/a0k2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/FOXSPORTS3HDLA.png/revision/latest/scale-to-width-down/600?cb=20220805141908&path-prefix=es",892 Fox Sports 3 HD
-http://177.234.247.66:8888/play/a00u/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg/revision/latest/scale-to-width-down/600?cb=20211120192909",892 ESPN 6HD
+http://177.234.230.206:8011/play/a0iz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/600?cb=20190620182054&path-prefix=es",893 TyC Sports
-http://177.234.247.66:8888/play/a02v/index.m3u8
+http://177.234.230.206:8011/play/a0bd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/GolTVLatam-2008.png/revision/latest/scale-to-width-down/325?cb=20200105205716&path-prefix=es",894 Gol TV
-http://177.234.247.66:8888/play/a02q/index.m3u8
+http://177.234.230.206:8011/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_01/small.logo_tntsports_hd_blanco.png.c0318e8668bd665b72935e7214f231d4.png",896 TNT SPORTS HD
 http://177.234.247.66:8888/play/a00b/index.m3u8
