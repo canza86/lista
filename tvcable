@@ -504,29 +504,29 @@ http://177.234.230.206:8011/play/a0bd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/GolTVLatam-2008.png/revision/latest/scale-to-width-down/325?cb=20200105205716&path-prefix=es",894 Gol TV
 http://177.234.230.206:8011/play/a01s/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_01/small.logo_tntsports_hd_blanco.png.c0318e8668bd665b72935e7214f231d4.png",896 TNT SPORTS HD
-http://177.234.247.66:8888/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/TNTSportsPremium2024.svg/revision/latest/scale-to-width-down/600?cb=20240601173549&path-prefix=es",896 TNT Sports Premiun HD
+http://177.234.230.206:8011/play/a0kf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/MTV_Live_2021.svg/revision/latest/scale-to-width-down/600?cb=20211008002311&path-prefix=es",905 MTV LIVE HD
-http://177.234.247.66:8888/play/a01b/index.m3u8
+http://177.234.230.206:8011/play/a0db/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Stingray_iConcerts.svg/revision/latest/scale-to-width-down/600?cb=20191120223336",907 CONCIERTOS HD
-http://177.234.247.66:8888/play/a02r/index.m3u8
+http://177.234.230.206:8011/play/a0l0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/MTV_00s.svg/revision/latest/scale-to-width-down/600?cb=20210618162633&path-prefix=es",908 MTV 00s
-http://177.234.247.66:8888/play/a00w/index.m3u8
+http://177.234.230.206:8011/play/a0ho/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/HBO_HD_2014.svg/revision/latest/scale-to-width-down/600?cb=20200119220909&path-prefix=es",920 HBO HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/HBO_blanco.png/revision/latest/scale-to-width-down/600?cb=20220106150908&path-prefix=es",920 HBO HD
 http://177.234.247.66:8888/play/a028/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/small.HBO2_logo.png.a3cc12c7b38fea94bb1a7267469a80fa.png",921 HBO 2 HD
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_02/large.HBO2_logo.png.f9ef6702942023a63a3162cf8acf3824.png",921 HBO 2 HD
 http://177.234.247.66:8888/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/HBO_Family_2021.svg/revision/latest/scale-to-width-down/600?cb=20230305154012&path-prefix=es",922 HBO FAMILY HD
-http://177.234.247.66:8888/play/a03c/index.m3u8
+http://177.234.230.206:8011/play/a0o7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/small.large.1312324970_HBOPOP(variantenaranja).png.347982efb47aede5dcf1812e773de650.png.f3c6c4d2c047a2a612548b4cc49f640e.png",923 HBO POP
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/600?cb=20200508220707",923 HBO POP
 http://177.234.247.66:8888/play/a00d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/monthly_2022_12/small.Wz3WemY.png.a7bb1679265313d5e87898c1a96d1f3f.png",924 HBO XTREME HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wz3WemY.png",924 HBO XTREME HD
 http://177.234.247.66:8888/play/a03d/index.m3u8
